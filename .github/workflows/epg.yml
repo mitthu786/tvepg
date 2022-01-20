@@ -1,0 +1,29 @@
+name: EPG Update
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 2 * * *" # every day at 2:30am UTC (8:00am IST)
+  push:
+    branches: [ main ]
+
+jobs:
+
+  epg:
+    name: EPG Setup
+    runs-on: ubuntu-latest
+    steps:
+
+    - name: Check out code into the Go module directory
+      uses: actions/checkout@v2
+
+    - name: Get EPG Data
+      run: ./bin/epg_linux_x64
+    
+    - name: Update release
+      env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        hub release edit -a epg.xml -a epg.xml.gz -m "" latest
+        
+
