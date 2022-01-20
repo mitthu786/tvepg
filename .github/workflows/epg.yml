@@ -22,7 +22,7 @@ jobs:
     
     - name: Update release
       env:
-          GIT_TOKEN: ${{ secrets.GIT_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GIT_TOKEN }}
       run: |
         hub release edit -a epg.xml -a epg.xml.gz -m "" latest
         
