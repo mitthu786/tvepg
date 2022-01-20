@@ -3,7 +3,7 @@ name: EPG Update
 on:
   workflow_dispatch:
   schedule:
-    - cron: "30 2 * * *" # every day at 2:30am UTC (8:00am IST)
+    - cron: "30 3 * * *" # every day at 3:30am UTC (8:00am IST)
   push:
     branches: [ main ]
 
@@ -18,7 +18,7 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Get EPG Data
-      run: sudo ./bin/epg_linux_x64
+      run: ./bin/epg_linux_x64
     
     - name: Update release
       env:
