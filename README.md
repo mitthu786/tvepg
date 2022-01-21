@@ -1,6 +1,6 @@
 # TV EPG SOURCES
-- https://github.com/mitthu786/tvepg/raw/main/epg.xml.gz
 
+- https://github.com/mitthu786/tvepg/releases/download/latest/epg.xml.gz
 
 ## Features
 - Just Add Above Url In Your Playlist.
