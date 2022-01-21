@@ -18,7 +18,7 @@ jobs:
       uses: actions/checkout@v2
 
     - name: Get EPG Data
-      run: chmod +x epg_linux_x64 && ./bin/epg_linux_x64
+      run: chmod +x bin/epg_linux_x64 && ./bin/epg_linux_x64
     
     - name: Update release
       env:
