@@ -1,5 +1,5 @@
 # TV EPG SOURCES
-- https://github.com/mitthu786/tvepg/blob/master/epg.xml.gz
+- https://github.com/mitthu786/tvepg/raw/main/epg.xml.gz
 
 
 ## Features
