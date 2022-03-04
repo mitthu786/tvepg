@@ -3,7 +3,7 @@ name: EPG Update
 on:
   workflow_dispatch:
   schedule:
-    - cron: "30 3 * * *" # every day at 3:30am UTC (8:00am IST)
+    - cron: "0 21 * * *" # every day at 21:00am UTC (2:30am IST)
   push:
     branches: [ main ]
 
