@@ -1,6 +1,6 @@
 <p align="center"><img src="https://play-lh.googleusercontent.com/k9OXcYUYd2Id7jSLB_Yf2EdgeeU9gdD5wS_0fe8Ze7jSPi5YI6St7ROKkS0QPM4jcg" width="60" height="60"></p>
 
-<h2 align='center'>✯ OTT EPG WITH CATCHUP ✯</h2>
+<h2 align='center'>✯ OTT EPG GUIDE WITH CATCHUP ✯</h2>
 
 <!-- DO NOT EDIT FILE AND ADD YOU NAME HERE AND PUBLISH -->
 <!-- © 2021-22 TechieSneh -->
@@ -10,7 +10,7 @@
 
 <h2>💖 NEW FEATURES :</h2>
 
-- 🕊️ DIFFERENT OTT EPG ADDED 🕊️ <br>
+- 🕊️ DIFFERENT OTT EPG GUIDE ADDED 🕊️ <br>
 
 1. JIOTV 8 DAYS EPG WITH CATCHUP ADDED
 2. TATAPLAY 2 DAYS EPG WITH CATCHUP ADDED
@@ -20,19 +20,19 @@
 
 📑 NOTE : Just Add Below EPG In Your Playlist.
 
-💞 1. BOTALLEN ALL OTT EPG<br>
+💞 1. BOTALLEN ALL OTT EPG GUIDE<br>
 
 ```py
-https://github.com/mitthu786/tvepg/releases/download/latest/epg.xml.gz
+https://github.com/mitthu786/tvepg/raw/main/epg.xml.gz
 ```
 
-💞 2. JIOTV 8 DAYS EPG WITH CATCHUP<br>
+💞 2. JIOTV 8 DAYS EPG GUIDE WITH CATCHUP<br>
 
 ```py
 https://github.com/mitthu786/tvepg/raw/main/jioepg.xml.gz
 ```
 
-💞 3. TATAPLAY 2 DAYS EPG<br>
+💞 3. TATAPLAY 2 DAYS EPG GUIDE<br>
 
 ```py
 https://github.com/mitthu786/tvepg/raw/main/tsepg.xml.gz
