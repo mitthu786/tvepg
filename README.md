@@ -23,19 +23,19 @@
 💞 1. BOTALLEN ALL OTT EPG GUIDE<br>
 
 ```py
-https://github.com/mitthu786/tvepg/raw/main/epg.xml.gz
+https://3o77.short.gy/epg.xml.gz
 ```
 
 💞 2. JIOTV 8 DAYS EPG GUIDE WITH CATCHUP<br>
 
 ```py
-https://github.com/mitthu786/tvepg/raw/main/jioepg.xml.gz
+https://3o77.short.gy/jioepg.xml.gz
 ```
 
 💞 3. TATAPLAY 2 DAYS EPG GUIDE<br>
 
 ```py
-https://github.com/mitthu786/tvepg/raw/main/tsepg.xml.gz
+https://3o77.short.gy/tsepg.xml.gz
 ```
 
 <h2>✍️ EPG USES INSTRUCTIONS :</h2>
