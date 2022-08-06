@@ -12,13 +12,19 @@
 
 - 🕊️ DIFFERENT OTT EPG GUIDE ADDED 🕊️ <br>
 
-1. JIOTV 8 DAYS EPG WITH CATCHUP ADDED
-2. TATAPLAY 2 DAYS EPG WITH CATCHUP ADDED
-3. ZEE5 & SUNNXT EPG ADDED SOON
+1. ✅ JIOTV 8 DAYS EPG WITH CATCHUP ADDED
+2. ✅ TATAPLAY 2 DAYS EPG WITH CATCHUP ADDED
+3. ✅ ZEE5 & SUNNXT EPG ADDED NOW
 
 <h2>🍃 ALL EPG LINKS :</h2>
 
 📑 NOTE : Just Add Below EPG In Your Playlist.
+
+💞 0. TS ALL IN ONE OTT EPG GUIDE<br>
+
+```py
+https://3o77.short.gy/aioepg.xml.gz
+```
 
 💞 1. BOTALLEN ALL OTT EPG GUIDE<br>
 
@@ -41,6 +47,16 @@ https://3o77.short.gy/tsepg.xml.gz
 <h2>✍️ EPG USES INSTRUCTIONS :</h2>
 
 📑 NOTE : Just Follow Below Instructions For EPG to works on Your Playlist.
+
+💞 0. TS AIO OTT EPG<br>
+
+```py
+FOR JIOTV EPG - use like this "jio144" FORMAT : [ jio(id) ]
+FOR TATAPLAY EPG - use like this "ts521" FORMAT : [ ts(id) ]
+FOR ZEE5 EPG - use like this "0-9-zeetv" FORMAT : [ 0-9-(id) ]
+FOR SUNNXT EPG - use like this "sun9025" FORMAT : [ sun(id) ]
+FOR SONYLIV EPG - use like this "sony1000009246" FORMAT : [ sony(id) ]
+```
 
 💞 1. BOTALLEN ALL OTT EPG<br>
 
