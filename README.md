@@ -52,7 +52,7 @@ https://3o77.short.gy/tsepg.xml.gz
 💞 0. TS AIO OTT EPG<br>
 
 ```py
-FOR JIOTV EPG - use like this "jio144" FORMAT : [ jio(id) ]
+FOR JIOTV EPG - use like this "144" FORMAT : [ (id) ]
 FOR TATAPLAY EPG - use like this "ts521" FORMAT : [ ts(id) ]
 FOR ZEE5 EPG - use like this "0-9-zeetv" FORMAT : [ 0-9-(id) ]
 FOR SUNNXT EPG - use like this "sun9025" FORMAT : [ sun(id) ]
@@ -71,7 +71,7 @@ FOR SUNNXT EPG - use like this "sun9025" FORMAT : [ sun(id) ]
 💞 2. JIOTV 8 DAYS EPG WITH CATCHUP<br>
 
 ```py
-ONLY JIOTV EPG - use like this "snehjio144" FORMAT : [ snehjio(id) ]
+ONLY JIOTV EPG - use like this "144" FORMAT : [ (id) ]
 ```
 
 💞 3. ONLY FOR TATAPLAY WITH 3 DAYS EPG<br>
