@@ -13,7 +13,7 @@
 - 🕊️ 𝗗𝗜𝗙𝗙𝗘𝗥𝗘𝗡𝗧 𝗢𝗧𝗧 𝗘𝗣𝗚 𝗚𝗨𝗜𝗗𝗘 𝗔𝗗𝗗𝗘𝗗 🕊️ <br>
 
 1. ✅ 𝐉𝐈𝐎𝐓𝐕 𝟖 𝐃𝐀𝐘𝐒 𝐄𝐏𝐆 𝐖𝐈𝐓𝐇 𝐂𝐀𝐓𝐂𝐇𝐔𝐏 𝐀𝐃𝐃𝐄𝐃
-2. ✅ 𝐓𝐀𝐓𝐀𝐏𝐋𝐀𝐘 𝟐 𝐃𝐀𝐘𝐒 𝐖𝐢𝐭𝐡 𝐘𝐞𝐬𝐭𝐞𝐫𝐝𝐚𝐲'𝐬 𝐄𝐏𝐆 𝐀𝐃𝐃𝐄𝐃
+2. ✅ 𝐓𝐀𝐓𝐀𝐏𝐋𝐀𝐘 𝟖 𝐃𝐀𝐘𝐒 𝐖𝐈𝐓𝐇 𝐂𝐀𝐓𝐂𝐇𝐔𝐏 𝐀𝐃𝐃𝐄𝐃
 3. ✅ 𝐙𝐄𝐄𝟓 & 𝐒𝐔𝐍𝐍𝐗𝐓 𝐄𝐏𝐆 𝐔𝐏𝐃𝐀𝐓𝐄𝐃
 4. ✅ 𝐒𝐎𝐍𝐘𝐋𝐈𝐕 𝐄𝐏𝐆 𝐀𝐃𝐃𝐄𝐃 𝐍𝐎𝐖
 
@@ -68,13 +68,13 @@ FOR ZEE5 EPG - use like this "0-9-zeetv" FORMAT : [ 0-9-(id) ]
 FOR SUNNXT EPG - use like this "sun9025" FORMAT : [ sun(id) ]
 ```
 
-💞 2. JIOTV 8 DAYS EPG WITH CATCHUP<br>
+💞 2. FOR JIOTV 8 DAYS EPG WITH CATCHUP<br>
 
 ```py
 ONLY JIOTV EPG - use like this "144" FORMAT : [ (id) ]
 ```
 
-💞 3. ONLY FOR TATAPLAY WITH 3 DAYS EPG<br>
+💞 3. FOR TATAPLAY 8 DAYS EPG WITH CATCHUP<br>
 
 ```py
 ONLY TATAPLAY EPG - use like this "ts144" FORMAT : [ ts(id) ]
