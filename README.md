@@ -26,19 +26,19 @@
 💞 `[ 1. TS AIO OTT EPG GUIDE ]`<br>
 
 ```py
-https://3o77.short.gy/epg.xml.gz
+https://avkb.short.gy/epg.xml.gz
 ```
 
 💞 `[ 2. JIOTV 8 DAYS EPG GUIDE WITH CATCHUP ]`<br>
 
 ```py
-https://3o77.short.gy/jioepg.xml.gz
+https://avkb.short.gy/jioepg.xml.gz
 ```
 
 💞 `[ 3. TATAPLAY 8 DAYS EPG GUIDE WITH CATCHUP ]`<br>
 
 ```py
-https://3o77.short.gy/tsepg.xml.gz
+https://avkb.short.gy/tsepg.xml.gz
 ```
 
 <h2>✍️ EPG USES INSTRUCTIONS :</h2>
@@ -74,7 +74,7 @@ ONLY TATAPLAY EPG - use like this "ts144" FORMAT : [ ts(id) ]
 1. Just Put Above Url Like this in your Playlist :-
 
 ```py
-#EXTM3U x-tvg-url="https://3o77.short.gy/epg.xml.gz"
+#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 ```
 
 1. Now Change your `tvg-id` according to your channels :-
@@ -87,7 +87,7 @@ FOR JIOTV :- [ tvg-id="144" ]
 - 📺 𝗧𝗔𝗧𝗔𝗣𝗟𝗔𝗬 𝗗𝗘𝗠𝗢
 
 ```py
-#EXTM3U x-tvg-url="https://3o77.short.gy/epg.xml.gz"
+#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000975&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXV
@@ -103,7 +103,7 @@ https://delta45tatasky.akamaized.net/out/i/722.mpd
 - 📺 𝗝𝗜𝗢𝗧𝗩 𝗗𝗘𝗠𝗢
 
 ```py
-#EXTM3U x-tvg-url="https://3o77.short.gy/epg.xml.gz"
+#EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="1918" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_English.png",Jio Cricket English HD
 http://localhost/jiotv/app/live.php?id=1918&e=.m3u8
