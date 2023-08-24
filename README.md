@@ -13,8 +13,8 @@
 - 🕊️ `𝗗𝗜𝗙𝗙𝗘𝗥𝗘𝗡𝗧 𝗢𝗧𝗧 𝗘𝗣𝗚 𝗚𝗨𝗜𝗗𝗘 𝗔𝗗𝗗𝗘𝗗` 🕊️ <br>
 
 ```py
-1. ✅ 𝐉𝐈𝐎𝐓𝐕 𝟖 𝐃𝐀𝐘𝐒 𝐄𝐏𝐆 𝐖𝐈𝐓𝐇 𝐂𝐀𝐓𝐂𝐇𝐔𝐏 𝐀𝐃𝐃𝐄𝐃
-2. ✅ 𝐓𝐀𝐓𝐀𝐏𝐋𝐀𝐘 𝟖 𝐃𝐀𝐘𝐒 𝐖𝐈𝐓𝐇 𝐂𝐀𝐓𝐂𝐇𝐔𝐏 𝐀𝐃𝐃𝐄𝐃
+1. ✅ 𝐉𝐈𝐎𝐓𝐕 2 𝐃𝐀𝐘𝐒 𝐄𝐏𝐆 𝐖𝐈𝐓𝐇 𝐂𝐀𝐓𝐂𝐇𝐔𝐏 𝐀𝐃𝐃𝐄𝐃
+2. ✅ 𝐓𝐀𝐓𝐀𝐏𝐋𝐀𝐘 8 𝐃𝐀𝐘𝐒 𝐖𝐈𝐓𝐇 𝐂𝐀𝐓𝐂𝐇𝐔𝐏 𝐀𝐃𝐃𝐄𝐃
 3. ✅ 𝐙𝐄𝐄𝟓 & 𝐒𝐔𝐍𝐍𝐗𝐓 𝐄𝐏𝐆 𝐔𝐏𝐃𝐀𝐓𝐄𝐃
 4. ✅ 𝐒𝐎𝐍𝐘𝐋𝐈𝐕 𝐄𝐏𝐆 𝐀𝐃𝐃𝐄𝐃 𝐍𝐎𝐖
 ```
@@ -29,7 +29,7 @@
 https://avkb.short.gy/epg.xml.gz
 ```
 
-💞 `[ 2. JIOTV 8 DAYS EPG GUIDE WITH CATCHUP ]`<br>
+💞 `[ 2. JIOTV 2 DAYS EPG GUIDE WITH CATCHUP ]`<br>
 
 ```py
 https://avkb.short.gy/jioepg.xml.gz
@@ -55,7 +55,7 @@ FOR SUNNXT EPG - use like this "sun9025" FORMAT : [ sun(id) ]
 FOR SONYLIV EPG - use like this "sony1000009246" FORMAT : [ sony(id) ]
 ```
 
-💞 `[ 2. FOR JIOTV 8 DAYS EPG WITH CATCHUP ]`<br>
+💞 `[ 2. FOR JIOTV 2 DAYS EPG WITH CATCHUP ]`<br>
 
 ```py
 ONLY JIOTV EPG - use like this "144" FORMAT : [ (id) ]
@@ -120,7 +120,7 @@ http://localhost/jiotv/app/live.php?id=291&e=.m3u8
 
 <h2>🤗 Meet Me : </h2>
 
-- 𝐅𝐨𝐫 𝐚𝐧𝐲 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐉𝐨𝐢𝐧 𝐎𝐮𝐫 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 [TS OFFICIAL](https://bit.ly/3XDNjN1)<br>
+- 𝐅𝐨𝐫 𝐚𝐧𝐲 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐉𝐨𝐢𝐧 𝐎𝐮𝐫 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 [TS OFFICIAL](https://bit.ly/3qzL7uD)<br>
 - 𝐎𝐫 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐚𝐭 [@protonmail](mailto:techiesneh@protonmail.com)
 
 <br>
