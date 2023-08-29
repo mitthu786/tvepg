@@ -14,7 +14,7 @@
 
 ```py
 1. ✅ 𝐉𝐈𝐎𝐓𝐕 2 𝐃𝐀𝐘𝐒 𝐄𝐏𝐆 𝐖𝐈𝐓𝐇 𝐂𝐀𝐓𝐂𝐇𝐔𝐏 𝐀𝐃𝐃𝐄𝐃
-2. ✅ 𝐓𝐀𝐓𝐀𝐏𝐋𝐀𝐘 8 𝐃𝐀𝐘𝐒 𝐖𝐈𝐓𝐇 𝐂𝐀𝐓𝐂𝐇𝐔𝐏 𝐀𝐃𝐃𝐄𝐃
+2. ✅ 𝐓𝐀𝐓𝐀𝐏𝐋𝐀𝐘 2 𝐃𝐀𝐘𝐒 𝐖𝐈𝐓𝐇 𝐂𝐀𝐓𝐂𝐇𝐔𝐏 𝐀𝐃𝐃𝐄𝐃
 3. ✅ 𝐙𝐄𝐄𝟓 & 𝐒𝐔𝐍𝐍𝐗𝐓 𝐄𝐏𝐆 𝐔𝐏𝐃𝐀𝐓𝐄𝐃
 4. ✅ 𝐒𝐎𝐍𝐘𝐋𝐈𝐕 𝐄𝐏𝐆 𝐀𝐃𝐃𝐄𝐃 𝐍𝐎𝐖
 ```
@@ -35,7 +35,7 @@ https://avkb.short.gy/epg.xml.gz
 https://avkb.short.gy/jioepg.xml.gz
 ```
 
-💞 `[ 3. TATAPLAY 8 DAYS EPG GUIDE WITH CATCHUP ]`<br>
+💞 `[ 3. TATAPLAY 2 DAYS EPG GUIDE WITH CATCHUP ]`<br>
 
 ```py
 https://avkb.short.gy/tsepg.xml.gz
@@ -61,7 +61,7 @@ FOR SONYLIV EPG - use like this "sony1000009246" FORMAT : [ sony(id) ]
 ONLY JIOTV EPG - use like this "144" FORMAT : [ (id) ]
 ```
 
-💞 `[ 3. FOR TATAPLAY 8 DAYS EPG WITH CATCHUP ]`<br>
+💞 `[ 3. FOR TATAPLAY 2 DAYS EPG WITH CATCHUP ]`<br>
 
 ```py
 ONLY TATAPLAY EPG - use like this "ts144" FORMAT : [ ts(id) ]
