@@ -43,6 +43,35 @@
     "channel_genre": "Lifestyle"
   },
   {
+    "channel_id": "618",
+    "channel_name": "Tata Play Beauty",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000642",
+    "channel_url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_853/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000002181",
+      "1000000001",
+      "1000000002",
+      "1000000883"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12282-ja02jlp4-v2/imageContent-12282-ja02jlp4-m2.png",
+    "channel_genre": "Lifestyle"
+  },
+  {
+    "channel_id": "641",
+    "channel_name": "Tata Play Cooking",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000676",
+    "channel_url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_876/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000000001",
+      "1000000002",
+      "1000001502",
+      "1000002181",
+      "1000000065"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23495-jf92iycg-v3/imageContent-23495-jf92iycg-m4.png",
+    "channel_genre": "Lifestyle"
+  },
+  {
     "channel_id": "959",
     "channel_name": "Tata Play Romance",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001111",
@@ -71,35 +100,6 @@
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-795-j5m7axrc-v1/imageContent-795-j5m7axrc-m1.png",
     "channel_genre": "Entertainment"
-  },
-  {
-    "channel_id": "618",
-    "channel_name": "Tata Play Beauty",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000642",
-    "channel_url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_853/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000002181",
-      "1000000001",
-      "1000000002",
-      "1000000883"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12282-ja02jlp4-v2/imageContent-12282-ja02jlp4-m2.png",
-    "channel_genre": "Lifestyle"
-  },
-  {
-    "channel_id": "641",
-    "channel_name": "Tata Play Cooking",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000676",
-    "channel_url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_876/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000000001",
-      "1000000002",
-      "1000001502",
-      "1000002181",
-      "1000000065"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23495-jf92iycg-v3/imageContent-23495-jf92iycg-m4.png",
-    "channel_genre": "Lifestyle"
   },
   {
     "channel_id": "8",
@@ -239,40 +239,6 @@
     "channel_genre": "Entertainment"
   },
   {
-    "channel_id": "48",
-    "channel_name": "SONY SAB HD",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000047",
-    "channel_url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_307/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000001342",
-      "1000001295",
-      "1000001225",
-      "1000001227",
-      "1000001345",
-      "1000000001",
-      "1000000795",
-      "1000001523",
-      "1000001035",
-      "1000001089",
-      "1000001542",
-      "1000001556",
-      "1000001350",
-      "1000000167",
-      "1000002397",
-      "1000000349",
-      "1000001091",
-      "1000000581",
-      "1000000033",
-      "1000001282",
-      "1000001291",
-      "1000001557",
-      "1000001226",
-      "1000001537"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-141-j5fpeji0-v3/imageContent-141-j5fpeji0-m3.png",
-    "channel_genre": "Entertainment"
-  },
-  {
     "channel_id": "556",
     "channel_name": "SET",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000585",
@@ -308,6 +274,40 @@
       "1000001388"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12074-j9oat6qw-v6/imageContent-12074-j9oat6qw-m6.png",
+    "channel_genre": "Entertainment"
+  },
+  {
+    "channel_id": "48",
+    "channel_name": "SONY SAB HD",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000047",
+    "channel_url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_307/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000001342",
+      "1000001295",
+      "1000001225",
+      "1000001227",
+      "1000001345",
+      "1000000001",
+      "1000000795",
+      "1000001523",
+      "1000001035",
+      "1000001089",
+      "1000001542",
+      "1000001556",
+      "1000001350",
+      "1000000167",
+      "1000002397",
+      "1000000349",
+      "1000001091",
+      "1000000581",
+      "1000000033",
+      "1000001282",
+      "1000001291",
+      "1000001557",
+      "1000001226",
+      "1000001537"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-141-j5fpeji0-v3/imageContent-141-j5fpeji0-m3.png",
     "channel_genre": "Entertainment"
   },
   {
@@ -377,54 +377,6 @@
       "1000001345"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-117-j5fl7440-v1/imageContent-117-j5fl7440-m1.png",
-    "channel_genre": "Entertainment"
-  },
-  {
-    "channel_id": "63",
-    "channel_name": "Zee TV HD",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000065",
-    "channel_url": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_258/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000001342",
-      "1000001556",
-      "1000001263",
-      "1000000033",
-      "1000002397",
-      "1000000795",
-      "1000000349",
-      "1000001091",
-      "1000001388",
-      "1000001345",
-      "1000001404",
-      "1000001895",
-      "1000002225",
-      "1000001226",
-      "1000001542",
-      "1000001225",
-      "1000001523",
-      "1000002398",
-      "1000000001",
-      "1000001131",
-      "1000001403",
-      "1000001387",
-      "1000001125",
-      "1000001268",
-      "1000002355",
-      "1000001227",
-      "1000000369",
-      "1000001089",
-      "1000002224",
-      "1000000199",
-      "1000001557",
-      "1000001035",
-      "1000002221",
-      "1000001405",
-      "1000001894",
-      "1000001359",
-      "1000001537",
-      "1000001360"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png",
     "channel_genre": "Entertainment"
   },
   {
@@ -509,6 +461,54 @@
       "1000000803"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12129-j9p7kluo-v2/imageContent-12129-j9p7kluo-m3.png",
+    "channel_genre": "Entertainment"
+  },
+  {
+    "channel_id": "63",
+    "channel_name": "Zee TV HD",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000065",
+    "channel_url": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_258/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000001342",
+      "1000001556",
+      "1000001263",
+      "1000000033",
+      "1000002397",
+      "1000000795",
+      "1000000349",
+      "1000001091",
+      "1000001388",
+      "1000001345",
+      "1000001404",
+      "1000001895",
+      "1000002225",
+      "1000001226",
+      "1000001542",
+      "1000001225",
+      "1000001523",
+      "1000002398",
+      "1000000001",
+      "1000001131",
+      "1000001403",
+      "1000001387",
+      "1000001125",
+      "1000001268",
+      "1000002355",
+      "1000001227",
+      "1000000369",
+      "1000001089",
+      "1000002224",
+      "1000000199",
+      "1000001557",
+      "1000001035",
+      "1000002221",
+      "1000001405",
+      "1000001894",
+      "1000001359",
+      "1000001537",
+      "1000001360"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11073-j95e7nyo-v1/imageContent-11073-j95e7nyo-m1.png",
     "channel_genre": "Entertainment"
   },
   {
@@ -747,21 +747,6 @@
     "channel_genre": "Shopping"
   },
   {
-    "channel_id": "634",
-    "channel_name": "Ezmall",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000664",
-    "channel_url": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_872/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000001038",
-      "1000001035",
-      "1000000001",
-      "1000001368",
-      "1000000909"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21303-je858doo-v2/imageContent-21303-je858doo-m2.png",
-    "channel_genre": "Shopping"
-  },
-  {
     "channel_id": "551",
     "channel_name": "STAR Utsav",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000581",
@@ -854,6 +839,21 @@
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11969-j9luigc0-v2/imageContent-11969-j9luigc0-m2.png",
     "channel_genre": "Entertainment"
+  },
+  {
+    "channel_id": "634",
+    "channel_name": "Ezmall",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000664",
+    "channel_url": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_872/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000001038",
+      "1000001035",
+      "1000000001",
+      "1000001368",
+      "1000000909"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21303-je858doo-v2/imageContent-21303-je858doo-m2.png",
+    "channel_genre": "Shopping"
   },
   {
     "channel_id": "438",
@@ -1647,6 +1647,21 @@
     "channel_genre": "Movies"
   },
   {
+    "channel_id": "666",
+    "channel_name": "Tata Play Theatre HD",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000705",
+    "channel_url": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_899/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000002181",
+      "1000000947",
+      "1000000002",
+      "1000000946",
+      "1000000001"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31419-jmb48u74-v3/imageContent-31419-jmb48u74-m4.png",
+    "channel_genre": "Movies"
+  },
+  {
     "channel_id": "727",
     "channel_name": "Zee Classic",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000783",
@@ -1681,21 +1696,6 @@
       "1000000001"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-42199-jxh2zlj4-v1/imageContent-42199-jxh2zlj4-m1.png",
-    "channel_genre": "Movies"
-  },
-  {
-    "channel_id": "666",
-    "channel_name": "Tata Play Theatre HD",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000705",
-    "channel_url": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_899/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000002181",
-      "1000000947",
-      "1000000002",
-      "1000000946",
-      "1000000001"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31419-jmb48u74-v3/imageContent-31419-jmb48u74-m4.png",
     "channel_genre": "Movies"
   },
   {
@@ -2186,20 +2186,6 @@
     "channel_genre": "Regional Marathi"
   },
   {
-    "channel_id": "731",
-    "channel_name": "Manoranjan TV",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000793",
-    "channel_url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_956/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000001512",
-      "1000000002",
-      "1000000001",
-      "1000001368"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43106-jxzlt6x4-v2/imageContent-43106-jxzlt6x4-m7.png",
-    "channel_genre": "Movies"
-  },
-  {
     "channel_id": "965",
     "channel_name": "Manoranjan Grand",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001118",
@@ -2211,6 +2197,20 @@
       "1000002019"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67799-kx7m7rhc-v1/imageContent-67799-kx7m7rhc-m2.png",
+    "channel_genre": "Movies"
+  },
+  {
+    "channel_id": "731",
+    "channel_name": "Manoranjan TV",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000793",
+    "channel_url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_956/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000001512",
+      "1000000002",
+      "1000000001",
+      "1000001368"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-43106-jxzlt6x4-v2/imageContent-43106-jxzlt6x4-m7.png",
     "channel_genre": "Movies"
   },
   {
@@ -2704,49 +2704,50 @@
     "channel_genre": "Sports"
   },
   {
-    "channel_id": "150",
-    "channel_name": "SONY SPORTS TEN 1",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000165",
-    "channel_url": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_114/output/manifest.mpd",
+    "channel_id": "246",
+    "channel_name": "Star Sports Select 1 HD",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000260",
+    "channel_url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_413/output/manifest.mpd",
     "channel_entitlements": [
-      "1000000002",
-      "1000002373",
-      "1000001108",
-      "1000001226",
-      "1000000001",
-      "1000000792",
-      "1000001292",
-      "1000002214",
-      "1000001288",
-      "1000001269",
-      "1000001225",
-      "1000001347",
-      "1000001342",
-      "1000001294",
-      "1000000272",
-      "1000000033",
-      "1000001197",
-      "1000001285",
-      "1000002372",
-      "1000002213",
-      "1000002370",
-      "1000001289",
-      "1000001350",
-      "1000002371",
-      "1000001092",
-      "1000001093",
-      "1000001523",
-      "1000001025",
-      "1000001273",
-      "1000001115",
-      "1000001363",
-      "1000001079",
       "1000001086",
-      "1000000014",
+      "1000000572",
+      "1000000714",
+      "1000002370",
+      "1000000033",
       "1000001105",
-      "1000001206"
+      "1000001158",
+      "1000000809",
+      "1000002250",
+      "1000001342",
+      "1000001157",
+      "1000001079",
+      "1000002371",
+      "1000001363",
+      "1000001273",
+      "1000001347",
+      "1000002253",
+      "1000001269",
+      "1000000131",
+      "1000001475",
+      "1000001488",
+      "1000001350",
+      "1000001092",
+      "1000001470",
+      "1000001340",
+      "1000000002",
+      "1000000001",
+      "1000001472",
+      "1000001115",
+      "1000001468",
+      "1000001476",
+      "1000001226",
+      "1000001225",
+      "1000001459",
+      "1000001093",
+      "1000001108",
+      "1000001179"
     ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-513-j5jzouqw-v5/imageContent-513-j5jzouqw-m7.png",
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG",
     "channel_genre": "Sports"
   },
   {
@@ -2796,97 +2797,6 @@
     "channel_genre": "Sports"
   },
   {
-    "channel_id": "246",
-    "channel_name": "Star Sports Select 1 HD",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000260",
-    "channel_url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_413/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000001086",
-      "1000000572",
-      "1000000714",
-      "1000002370",
-      "1000000033",
-      "1000001105",
-      "1000001158",
-      "1000000809",
-      "1000002250",
-      "1000001342",
-      "1000001157",
-      "1000001079",
-      "1000002371",
-      "1000001363",
-      "1000001273",
-      "1000001347",
-      "1000002253",
-      "1000001269",
-      "1000000131",
-      "1000001475",
-      "1000001488",
-      "1000001350",
-      "1000001092",
-      "1000001470",
-      "1000001340",
-      "1000000002",
-      "1000000001",
-      "1000001472",
-      "1000001115",
-      "1000001468",
-      "1000001476",
-      "1000001226",
-      "1000001225",
-      "1000001459",
-      "1000001093",
-      "1000001108",
-      "1000001179"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-7891-j75vq7k0-v1/imageContent-7891-j75vq7k0-m1.PNG",
-    "channel_genre": "Sports"
-  },
-  {
-    "channel_id": "462",
-    "channel_name": "SONY SPORTS TEN 2 HD",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000484",
-    "channel_url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_726/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000001086",
-      "1000000809",
-      "1000001115",
-      "1000000033",
-      "1000002372",
-      "1000001269",
-      "1000001226",
-      "1000001294",
-      "1000001286",
-      "1000001289",
-      "1000001350",
-      "1000000068",
-      "1000001292",
-      "1000000828",
-      "1000001108",
-      "1000002371",
-      "1000002376",
-      "1000001288",
-      "1000001093",
-      "1000000001",
-      "1000000002",
-      "1000002373",
-      "1000001347",
-      "1000001025",
-      "1000001273",
-      "1000001092",
-      "1000002370",
-      "1000001225",
-      "1000001105",
-      "1000001342",
-      "1000002377",
-      "1000000756",
-      "1000001363",
-      "1000001079"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png",
-    "channel_genre": "Sports"
-  },
-  {
     "channel_id": "463",
     "channel_name": "Star Sports Select 2 HD",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000486",
@@ -2933,51 +2843,49 @@
     "channel_genre": "Sports"
   },
   {
-    "channel_id": "464",
-    "channel_name": "SONY SPORTS TEN 3 HD",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000485",
-    "channel_url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_727/output/manifest.mpd",
+    "channel_id": "150",
+    "channel_name": "SONY SPORTS TEN 1",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000165",
+    "channel_url": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_114/output/manifest.mpd",
     "channel_entitlements": [
-      "1000001294",
-      "1000001225",
-      "1000001532",
-      "1000001198",
-      "1000000757",
-      "1000001521",
+      "1000000002",
+      "1000002373",
+      "1000001108",
+      "1000001226",
       "1000000001",
-      "1000001093",
-      "1000001564",
-      "1000001273",
+      "1000000792",
+      "1000001292",
+      "1000002214",
+      "1000001288",
+      "1000001269",
+      "1000001225",
       "1000001347",
       "1000001342",
-      "1000001086",
-      "1000001115",
-      "1000001105",
-      "1000001284",
-      "1000001570",
-      "1000001269",
-      "1000001226",
-      "1000002376",
-      "1000002402",
-      "1000002375",
-      "1000002377",
-      "1000001624",
-      "1000001350",
-      "1000001523",
-      "1000001207",
-      "1000000202",
-      "1000001092",
-      "1000001079",
-      "1000001025",
-      "1000001295",
-      "1000001289",
-      "1000001363",
+      "1000001294",
+      "1000000272",
       "1000000033",
-      "1000000828",
-      "1000001108",
-      "1000000002"
+      "1000001197",
+      "1000001285",
+      "1000002372",
+      "1000002213",
+      "1000002370",
+      "1000001289",
+      "1000001350",
+      "1000002371",
+      "1000001092",
+      "1000001093",
+      "1000001523",
+      "1000001025",
+      "1000001273",
+      "1000001115",
+      "1000001363",
+      "1000001079",
+      "1000001086",
+      "1000000014",
+      "1000001105",
+      "1000001206"
     ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png",
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-513-j5jzouqw-v5/imageContent-513-j5jzouqw-m7.png",
     "channel_genre": "Sports"
   },
   {
@@ -3022,6 +2930,50 @@
       "1000000792"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-742-j5l50le0-v5/imageContent-742-j5l50le0-m7.png",
+    "channel_genre": "Sports"
+  },
+  {
+    "channel_id": "462",
+    "channel_name": "SONY SPORTS TEN 2 HD",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000484",
+    "channel_url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_726/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000001086",
+      "1000000809",
+      "1000001115",
+      "1000000033",
+      "1000002372",
+      "1000001269",
+      "1000001226",
+      "1000001294",
+      "1000001286",
+      "1000001289",
+      "1000001350",
+      "1000000068",
+      "1000001292",
+      "1000000828",
+      "1000001108",
+      "1000002371",
+      "1000002376",
+      "1000001288",
+      "1000001093",
+      "1000000001",
+      "1000000002",
+      "1000002373",
+      "1000001347",
+      "1000001025",
+      "1000001273",
+      "1000001092",
+      "1000002370",
+      "1000001225",
+      "1000001105",
+      "1000001342",
+      "1000002377",
+      "1000000756",
+      "1000001363",
+      "1000001079"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11784-j9kylfd4-v2/imageContent-11784-j9kylfd4-m3.png",
     "channel_genre": "Sports"
   },
   {
@@ -3071,6 +3023,54 @@
       "1000000001"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-739-j5l4y6yw-v5/imageContent-739-j5l4y6yw-m5.png",
+    "channel_genre": "Sports"
+  },
+  {
+    "channel_id": "464",
+    "channel_name": "SONY SPORTS TEN 3 HD",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000485",
+    "channel_url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_727/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000001294",
+      "1000001225",
+      "1000001532",
+      "1000001198",
+      "1000000757",
+      "1000001521",
+      "1000000001",
+      "1000001093",
+      "1000001564",
+      "1000001273",
+      "1000001347",
+      "1000001342",
+      "1000001086",
+      "1000001115",
+      "1000001105",
+      "1000001284",
+      "1000001570",
+      "1000001269",
+      "1000001226",
+      "1000002376",
+      "1000002402",
+      "1000002375",
+      "1000002377",
+      "1000001624",
+      "1000001350",
+      "1000001523",
+      "1000001207",
+      "1000000202",
+      "1000001092",
+      "1000001079",
+      "1000001025",
+      "1000001295",
+      "1000001289",
+      "1000001363",
+      "1000000033",
+      "1000000828",
+      "1000001108",
+      "1000000002"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11787-j9kynnm0-v3/imageContent-11787-j9kynnm0-m3.png",
     "channel_genre": "Sports"
   },
   {
@@ -3141,32 +3141,6 @@
     "channel_genre": null
   },
   {
-    "channel_id": "980",
-    "channel_name": "Sports 18 - 1",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001142",
-    "channel_url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1809/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000002376",
-      "1000001523",
-      "1000002370",
-      "1000002178",
-      "1000002282",
-      "1000002377",
-      "1000002170",
-      "1000002372",
-      "1000002371",
-      "1000002373",
-      "1000000001",
-      "1000002059",
-      "1000000791",
-      "1000000002",
-      "1000002281",
-      "1000000792"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-70046-l21cybww-v2/imageContent-70046-l21cybww-m5.png",
-    "channel_genre": "Sports"
-  },
-  {
     "channel_id": "812",
     "channel_name": "Eurosport HD",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000907",
@@ -3203,6 +3177,32 @@
       "1000001690"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52842-k980h8vc-v1/imageContent-52842-k980h8vc-m2.png",
+    "channel_genre": "Sports"
+  },
+  {
+    "channel_id": "980",
+    "channel_name": "Sports 18 - 1",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001142",
+    "channel_url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1809/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000002376",
+      "1000001523",
+      "1000002370",
+      "1000002178",
+      "1000002282",
+      "1000002377",
+      "1000002170",
+      "1000002372",
+      "1000002371",
+      "1000002373",
+      "1000000001",
+      "1000002059",
+      "1000000791",
+      "1000000002",
+      "1000002281",
+      "1000000792"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-70046-l21cybww-v2/imageContent-70046-l21cybww-m5.png",
     "channel_genre": "Sports"
   },
   {
@@ -3368,20 +3368,6 @@
     "channel_genre": "News"
   },
   {
-    "channel_id": "783",
-    "channel_name": "Tata Play Seniors",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000866",
-    "channel_url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_974/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000001540",
-      "1000002181",
-      "1000000001",
-      "1000000002"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-47647-k2lbp2q8-v2/imageContent-47647-k2lbp2q8-m2.png",
-    "channel_genre": "Knowledge"
-  },
-  {
     "channel_id": "689",
     "channel_name": "Aaj Tak HD",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000732",
@@ -3422,45 +3408,33 @@
     "channel_genre": "News"
   },
   {
-    "channel_id": "153",
-    "channel_name": "Aaj Tak",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000171",
-    "channel_url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_191/output/manifest.mpd",
+    "channel_id": "783",
+    "channel_name": "Tata Play Seniors",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000866",
+    "channel_url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_974/output/manifest.mpd",
     "channel_entitlements": [
-      "1000001016",
-      "1000001345",
-      "1000001523",
-      "1000001387",
-      "1000001432",
-      "1000001227",
-      "1000000077",
-      "1000001388",
-      "1000001893",
-      "1000001442",
-      "1000002072",
+      "1000001540",
+      "1000002181",
       "1000000001",
-      "1000001035",
-      "1000001444",
-      "1000000350",
-      "1000001033",
-      "1000001549",
-      "1000001550",
-      "1000001443",
-      "1000001280",
-      "1000001051",
-      "1000001484",
-      "1000001342",
-      "1000001902",
-      "1000002386",
-      "1000001091",
-      "1000001089",
-      "1000000108",
-      "1000001225",
-      "1000001226",
-      "1000000033"
+      "1000000002"
     ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-537-j5kwkd88-v1/imageContent-537-j5kwkd88-m1.png",
-    "channel_genre": "News"
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-47647-k2lbp2q8-v2/imageContent-47647-k2lbp2q8-m2.png",
+    "channel_genre": "Knowledge"
+  },
+  {
+    "channel_id": "1056",
+    "channel_name": "Tata Play Har Ghar Startup",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001220",
+    "channel_url": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1874/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000001035",
+      "1000001274",
+      "1000002321",
+      "1000001038",
+      "1000000001"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/HAGHAR_Thumbnail-v1/HAGHAR_Thumbnail.png",
+    "channel_genre": null
   },
   {
     "channel_id": "259",
@@ -3503,21 +3477,6 @@
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11110-j95ioyag-v1/imageContent-11110-j95ioyag-m1.png",
     "channel_genre": "News"
-  },
-  {
-    "channel_id": "1056",
-    "channel_name": "Tata Play Har Ghar Startup",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001220",
-    "channel_url": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1874/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000001035",
-      "1000001274",
-      "1000002321",
-      "1000001038",
-      "1000000001"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/HAGHAR_Thumbnail-v1/HAGHAR_Thumbnail.png",
-    "channel_genre": null
   },
   {
     "channel_id": "872",
@@ -3564,6 +3523,47 @@
     "channel_genre": "News"
   },
   {
+    "channel_id": "153",
+    "channel_name": "Aaj Tak",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000171",
+    "channel_url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_191/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000001016",
+      "1000001345",
+      "1000001523",
+      "1000001387",
+      "1000001432",
+      "1000001227",
+      "1000000077",
+      "1000001388",
+      "1000001893",
+      "1000001442",
+      "1000002072",
+      "1000000001",
+      "1000001035",
+      "1000001444",
+      "1000000350",
+      "1000001033",
+      "1000001549",
+      "1000001550",
+      "1000001443",
+      "1000001280",
+      "1000001051",
+      "1000001484",
+      "1000001342",
+      "1000001902",
+      "1000002386",
+      "1000001091",
+      "1000001089",
+      "1000000108",
+      "1000001225",
+      "1000001226",
+      "1000000033"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-537-j5kwkd88-v1/imageContent-537-j5kwkd88-m1.png",
+    "channel_genre": "News"
+  },
+  {
     "channel_id": "929",
     "channel_name": "Tata Play JEE Prep",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001079",
@@ -3575,20 +3575,6 @@
       "1000002181"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-64069-kra2o75k-v2/imageContent-64069-kra2o75k-m2.png",
-    "channel_genre": "Knowledge"
-  },
-  {
-    "channel_id": "928",
-    "channel_name": "Tata Play NEET Prep",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001078",
-    "channel_url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1323/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000000001",
-      "1000002181",
-      "1000000002",
-      "1000001881"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-64066-kra2j2qo-v2/imageContent-64066-kra2j2qo-m2.png",
     "channel_genre": "Knowledge"
   },
   {
@@ -3635,6 +3621,20 @@
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-339-j5jm6kko-v1/imageContent-339-j5jm6kko-m1.png",
     "channel_genre": "News"
+  },
+  {
+    "channel_id": "928",
+    "channel_name": "Tata Play NEET Prep",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001078",
+    "channel_url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1323/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000000001",
+      "1000002181",
+      "1000000002",
+      "1000001881"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-64066-kra2j2qo-v2/imageContent-64066-kra2j2qo-m2.png",
+    "channel_genre": "Knowledge"
   },
   {
     "channel_id": "514",
@@ -3728,21 +3728,6 @@
     "channel_genre": "News"
   },
   {
-    "channel_id": "485",
-    "channel_name": "TOTAL TV",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000510",
-    "channel_url": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_785/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000000001",
-      "1000001035",
-      "1000000077",
-      "1000000775",
-      "1000001368"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11859-j9l2n36w-v2/imageContent-11859-j9l2n36w-m2.png",
-    "channel_genre": "News"
-  },
-  {
     "channel_id": "706",
     "channel_name": "TV9 Bharatvarsh",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000749",
@@ -3758,6 +3743,21 @@
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-67672-kwly0m4w-v1/imageContent-67672-kwly0m4w-m1.png",
     "channel_genre": "Regional Hindi"
+  },
+  {
+    "channel_id": "485",
+    "channel_name": "TOTAL TV",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000510",
+    "channel_url": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_785/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000000001",
+      "1000001035",
+      "1000000077",
+      "1000000775",
+      "1000001368"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11859-j9l2n36w-v2/imageContent-11859-j9l2n36w-m2.png",
+    "channel_genre": "News"
   },
   {
     "channel_id": "932",
@@ -3899,8 +3899,8 @@
     "channel_url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_1944/output/manifest.mpd",
     "channel_entitlements": [
       "1000001368",
-      "1000002463",
-      "1000000002"
+      "1000000002",
+      "1000002463"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DSNEW_Thumbnail-v5/DSNEW_Thumbnail.png",
     "channel_genre": null
@@ -3921,20 +3921,6 @@
     "channel_genre": "News"
   },
   {
-    "channel_id": "685",
-    "channel_name": "India Voice",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000728",
-    "channel_url": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_922/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000001368",
-      "1000001696",
-      "1000000001",
-      "1000000002"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34516-jp9bj0qg-v4/imageContent-34516-jp9bj0qg-m4.png",
-    "channel_genre": "News"
-  },
-  {
     "channel_id": "950",
     "channel_name": "ET Now Swadesh",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001101",
@@ -3951,6 +3937,20 @@
       "1000002180"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66223-ku9gfjug-v1/imageContent-66223-ku9gfjug-m1.png",
+    "channel_genre": "News"
+  },
+  {
+    "channel_id": "685",
+    "channel_name": "India Voice",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000728",
+    "channel_url": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_922/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000001368",
+      "1000001696",
+      "1000000001",
+      "1000000002"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34516-jp9bj0qg-v4/imageContent-34516-jp9bj0qg-m4.png",
     "channel_genre": "News"
   },
   {
@@ -4069,20 +4069,6 @@
     "channel_genre": "News"
   },
   {
-    "channel_id": "988",
-    "channel_name": "Har Khabar",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001150",
-    "channel_url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1814/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000000002",
-      "1000000001",
-      "1000002101",
-      "1000001368"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-70993-l3v760zc-v1/imageContent-70993-l3v760zc-m4.png",
-    "channel_genre": null
-  },
-  {
     "channel_id": "784",
     "channel_name": "FM News",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000867",
@@ -4094,6 +4080,20 @@
       "1000001368"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/FNEWS_Thumbnail-v2/FNEWS_Thumbnail.png",
+    "channel_genre": null
+  },
+  {
+    "channel_id": "988",
+    "channel_name": "Har Khabar",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001150",
+    "channel_url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1814/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000000002",
+      "1000000001",
+      "1000002101",
+      "1000001368"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-70993-l3v760zc-v1/imageContent-70993-l3v760zc-m4.png",
     "channel_genre": null
   },
   {
@@ -4520,32 +4520,6 @@
     "channel_genre": "News"
   },
   {
-    "channel_id": "304",
-    "channel_name": "CNBC TV18 Prime HD",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000318",
-    "channel_url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_488/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000002280",
-      "1000001211",
-      "1000001096",
-      "1000000298",
-      "1000001872",
-      "1000002271",
-      "1000001320",
-      "1000001324",
-      "1000000827",
-      "1000002270",
-      "1000000033",
-      "1000002369",
-      "1000002273",
-      "1000001092",
-      "1000000001",
-      "1000001215"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11284-j9j4sn4o-v2/imageContent-11284-j9j4sn4o-m2.png",
-    "channel_genre": "News"
-  },
-  {
     "channel_id": "324",
     "channel_name": "DD India",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000342",
@@ -4591,6 +4565,32 @@
       "1000001008"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-294-j5ji8n08-v1/imageContent-294-j5ji8n08-m1.png",
+    "channel_genre": "News"
+  },
+  {
+    "channel_id": "304",
+    "channel_name": "CNBC TV18 Prime HD",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000318",
+    "channel_url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_488/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000002280",
+      "1000001211",
+      "1000001096",
+      "1000000298",
+      "1000001872",
+      "1000002271",
+      "1000001320",
+      "1000001324",
+      "1000000827",
+      "1000002270",
+      "1000000033",
+      "1000002369",
+      "1000002273",
+      "1000001092",
+      "1000000001",
+      "1000001215"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11284-j9j4sn4o-v2/imageContent-11284-j9j4sn4o-m2.png",
     "channel_genre": "News"
   },
   {
@@ -4667,6 +4667,41 @@
     "channel_genre": "News"
   },
   {
+    "channel_id": "188",
+    "channel_name": "BBC News",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000202",
+    "channel_url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_151/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000001161",
+      "1000001215",
+      "1000000789",
+      "1000001430",
+      "1000001919",
+      "1000001112",
+      "1000001035",
+      "1000000115",
+      "1000001227",
+      "1000000001",
+      "1000001872",
+      "1000000827",
+      "1000001484",
+      "1000001833",
+      "1000001553",
+      "1000001821",
+      "1000001211",
+      "1000001442",
+      "1000001193",
+      "1000002071",
+      "1000001094",
+      "1000001716",
+      "1000001146",
+      "1000001095",
+      "1000001101"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BBCWNW_Thumbnail-v3/BBCWNW_Thumbnail.png",
+    "channel_genre": "News"
+  },
+  {
     "channel_id": "243",
     "channel_name": "CNN",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000257",
@@ -4702,41 +4737,6 @@
       "1000001215"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-4154-j69pdmvk-v1/imageContent-4154-j69pdmvk-m1.png",
-    "channel_genre": "News"
-  },
-  {
-    "channel_id": "188",
-    "channel_name": "BBC News",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000202",
-    "channel_url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_151/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000001161",
-      "1000001215",
-      "1000000789",
-      "1000001430",
-      "1000001919",
-      "1000001112",
-      "1000001035",
-      "1000000115",
-      "1000001227",
-      "1000000001",
-      "1000001872",
-      "1000000827",
-      "1000001484",
-      "1000001833",
-      "1000001553",
-      "1000001821",
-      "1000001211",
-      "1000001442",
-      "1000001193",
-      "1000002071",
-      "1000001094",
-      "1000001716",
-      "1000001146",
-      "1000001095",
-      "1000001101"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/BBCWNW_Thumbnail-v3/BBCWNW_Thumbnail.png",
     "channel_genre": "News"
   },
   {
@@ -4797,20 +4797,6 @@
     "channel_genre": "News"
   },
   {
-    "channel_id": "60",
-    "channel_name": "DW",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000057",
-    "channel_url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_376/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000001035",
-      "1000001416",
-      "1000000001",
-      "1000000553"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-186-j5fsr1go-v1/imageContent-186-j5fsr1go-m1.png",
-    "channel_genre": "News"
-  },
-  {
     "channel_id": "105",
     "channel_name": "Australia TV",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000102",
@@ -4836,6 +4822,20 @@
       "1000000001"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-312-j5jjsfhs-v1/imageContent-312-j5jjsfhs-m1.png",
+    "channel_genre": "News"
+  },
+  {
+    "channel_id": "60",
+    "channel_name": "DW",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000057",
+    "channel_url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_376/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000001035",
+      "1000001416",
+      "1000000001",
+      "1000000553"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-186-j5fsr1go-v1/imageContent-186-j5fsr1go-m1.png",
     "channel_genre": "News"
   },
   {
@@ -5115,21 +5115,6 @@
     "channel_genre": "Kids"
   },
   {
-    "channel_id": "627",
-    "channel_name": "Tata Play Fun Learn Junior",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000651",
-    "channel_url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_861/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000002181",
-      "1000000001",
-      "1000000724",
-      "1000000002",
-      "1000001502"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-13097-jbdzn9og-v2/imageContent-13097-jbdzn9og-m2.png",
-    "channel_genre": "Kids"
-  },
-  {
     "channel_id": "681",
     "channel_name": "Cartoon Network HD+",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000718",
@@ -5179,6 +5164,21 @@
       "1000000033"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-34164-jok06xoo-v1/imageContent-34164-jok06xoo-m1.png",
+    "channel_genre": "Kids"
+  },
+  {
+    "channel_id": "627",
+    "channel_name": "Tata Play Fun Learn Junior",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000651",
+    "channel_url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_861/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000002181",
+      "1000000001",
+      "1000000724",
+      "1000000002",
+      "1000001502"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-13097-jbdzn9og-v2/imageContent-13097-jbdzn9og-m2.png",
     "channel_genre": "Kids"
   },
   {
@@ -5418,19 +5418,43 @@
     "channel_genre": "Kids"
   },
   {
-    "channel_id": "994",
-    "channel_name": "Tata Play Toons+",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001156",
-    "channel_url": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_1821/output/manifest.mpd",
+    "channel_id": "867",
+    "channel_name": "Gubbare",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001009",
+    "channel_url": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1143/output/manifest.mpd",
     "channel_entitlements": [
-      "1000001819",
-      "1000002141",
+      "1000001273",
+      "1000001345",
+      "1000000794",
+      "1000001349",
+      "1000001188",
+      "1000001231",
       "1000000001",
-      "1000002181",
-      "1000000002"
+      "1000001189",
+      "1000001225",
+      "1000001703",
+      "1000002387",
+      "1000001115",
+      "1000001092",
+      "1000001350",
+      "1000001811",
+      "1000000053",
+      "1000001363",
+      "1000002206",
+      "1000000002",
+      "1000001342",
+      "1000000812",
+      "1000001085",
+      "1000001272",
+      "1000001226",
+      "1000001079",
+      "1000001200",
+      "1000001199",
+      "1000001109",
+      "1000001108"
     ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71550-l4zi50uw-v2/imageContent-71550-l4zi50uw-m5.png",
-    "channel_genre": null
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57985-khvdchrs-v2/imageContent-57985-khvdchrs-m2.png",
+    "channel_genre": "Regional Kannada"
   },
   {
     "channel_id": "905",
@@ -5471,43 +5495,62 @@
     "channel_genre": "Kids"
   },
   {
-    "channel_id": "867",
-    "channel_name": "Gubbare",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001009",
-    "channel_url": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1143/output/manifest.mpd",
+    "channel_id": "994",
+    "channel_name": "Tata Play Toons+",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001156",
+    "channel_url": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_1821/output/manifest.mpd",
     "channel_entitlements": [
-      "1000001273",
-      "1000001345",
-      "1000000794",
-      "1000001349",
-      "1000001188",
-      "1000001231",
+      "1000001819",
+      "1000002141",
       "1000000001",
-      "1000001189",
-      "1000001225",
-      "1000001703",
-      "1000002387",
-      "1000001115",
-      "1000001092",
-      "1000001350",
-      "1000001811",
-      "1000000053",
-      "1000001363",
-      "1000002206",
-      "1000000002",
-      "1000001342",
-      "1000000812",
-      "1000001085",
-      "1000001272",
-      "1000001226",
-      "1000001079",
-      "1000001200",
-      "1000001199",
-      "1000001109",
-      "1000001108"
+      "1000002181",
+      "1000000002"
     ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57985-khvdchrs-v2/imageContent-57985-khvdchrs-m2.png",
-    "channel_genre": "Regional Kannada"
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71550-l4zi50uw-v2/imageContent-71550-l4zi50uw-m5.png",
+    "channel_genre": null
+  },
+  {
+    "channel_id": "118",
+    "channel_name": "Nick Jr",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000124",
+    "channel_url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_168/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000001084",
+      "1000001324",
+      "1000002177",
+      "1000001326",
+      "1000001146",
+      "1000001035",
+      "1000001199",
+      "1000000001",
+      "1000001327",
+      "1000001093",
+      "1000001527",
+      "1000001211",
+      "1000000794",
+      "1000001188",
+      "1000001363",
+      "1000001273",
+      "1000001306",
+      "1000001215",
+      "1000001092",
+      "1000001161",
+      "1000000304",
+      "1000001713",
+      "1000001097",
+      "1000001085",
+      "1000001444",
+      "1000001443",
+      "1000001307",
+      "1000001703",
+      "1000000812",
+      "1000001299",
+      "1000001098",
+      "1000001822",
+      "1000001079"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-390-j5jpps1s-v1/imageContent-390-j5jpps1s-m1.png",
+    "channel_genre": "Kids"
   },
   {
     "channel_id": "144",
@@ -5553,47 +5596,18 @@
     "channel_genre": "Kids"
   },
   {
-    "channel_id": "118",
-    "channel_name": "Nick Jr",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000124",
-    "channel_url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_168/output/manifest.mpd",
+    "channel_id": "1164",
+    "channel_name": "Unique TV",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001308",
+    "channel_url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_1946/output/manifest.mpd",
     "channel_entitlements": [
-      "1000001084",
-      "1000001324",
-      "1000002177",
-      "1000001326",
-      "1000001146",
-      "1000001035",
-      "1000001199",
+      "1000001368",
       "1000000001",
-      "1000001327",
-      "1000001093",
-      "1000001527",
-      "1000001211",
-      "1000000794",
-      "1000001188",
-      "1000001363",
-      "1000001273",
-      "1000001306",
-      "1000001215",
-      "1000001092",
-      "1000001161",
-      "1000000304",
-      "1000001713",
-      "1000001097",
-      "1000001085",
-      "1000001444",
-      "1000001443",
-      "1000001307",
-      "1000001703",
-      "1000000812",
-      "1000001299",
-      "1000001098",
-      "1000001822",
-      "1000001079"
+      "1000002466",
+      "1000000002"
     ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-390-j5jpps1s-v1/imageContent-390-j5jpps1s-m1.png",
-    "channel_genre": "Kids"
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/UNIQ_Thumbnail-v3/UNIQ_Thumbnail.png",
+    "channel_genre": null
   },
   {
     "channel_id": "816",
@@ -6414,6 +6428,49 @@
     "channel_genre": "Lifestyle"
   },
   {
+    "channel_id": "126",
+    "channel_name": "EPIC",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000134",
+    "channel_url": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_194/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000001097",
+      "1000000808",
+      "1000001347",
+      "1000001098",
+      "1000001225",
+      "1000000077",
+      "1000001716",
+      "1000002206",
+      "1000001194",
+      "1000001092",
+      "1000001084",
+      "1000001203",
+      "1000001363",
+      "1000000828",
+      "1000001273",
+      "1000001703",
+      "1000001800",
+      "1000000338",
+      "1000001350",
+      "1000000001",
+      "1000001473",
+      "1000001035",
+      "1000001893",
+      "1000001093",
+      "1000001474",
+      "1000001481",
+      "1000001269",
+      "1000001079",
+      "1000001085",
+      "1000001482",
+      "1000001364",
+      "1000001342",
+      "1000001226"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8017-j7a4nf20-v1/imageContent-8017-j7a4nf20-m1.png",
+    "channel_genre": "Knowledge"
+  },
+  {
     "channel_id": "367",
     "channel_name": "FOX Life HD",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000371",
@@ -6469,49 +6526,6 @@
     "channel_genre": "Lifestyle"
   },
   {
-    "channel_id": "126",
-    "channel_name": "EPIC",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000134",
-    "channel_url": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_194/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000001097",
-      "1000000808",
-      "1000001347",
-      "1000001098",
-      "1000001225",
-      "1000000077",
-      "1000001716",
-      "1000002206",
-      "1000001194",
-      "1000001092",
-      "1000001084",
-      "1000001203",
-      "1000001363",
-      "1000000828",
-      "1000001273",
-      "1000001703",
-      "1000001800",
-      "1000000338",
-      "1000001350",
-      "1000000001",
-      "1000001473",
-      "1000001035",
-      "1000001893",
-      "1000001093",
-      "1000001474",
-      "1000001481",
-      "1000001269",
-      "1000001079",
-      "1000001085",
-      "1000001482",
-      "1000001364",
-      "1000001342",
-      "1000001226"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8017-j7a4nf20-v1/imageContent-8017-j7a4nf20-m1.png",
-    "channel_genre": "Knowledge"
-  },
-  {
     "channel_id": "646",
     "channel_name": "DD Gyan Darshan",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000682",
@@ -6526,59 +6540,6 @@
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23855-jg9jt83c-v2/imageContent-23855-jg9jt83c-m8.png",
     "channel_genre": "Knowledge"
-  },
-  {
-    "channel_id": "135",
-    "channel_name": "TLC",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000145",
-    "channel_url": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_127/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000001084",
-      "1000000001",
-      "1000001104",
-      "1000001203",
-      "1000002358",
-      "1000001001",
-      "1000001427",
-      "1000001345",
-      "1000002393",
-      "1000001227",
-      "1000000445",
-      "1000001204",
-      "1000001079",
-      "1000001273",
-      "1000001429",
-      "1000002353",
-      "1000001226",
-      "1000001003",
-      "1000001114",
-      "1000001835",
-      "1000001225",
-      "1000000077",
-      "1000001195",
-      "1000001002",
-      "1000001105",
-      "1000001364",
-      "1000002374",
-      "1000001087",
-      "1000001088",
-      "1000001523",
-      "1000001271",
-      "1000001278",
-      "1000001342",
-      "1000001269",
-      "1000000182",
-      "1000001035",
-      "1000000985",
-      "1000001444",
-      "1000000808",
-      "1000001365",
-      "1000000807",
-      "1000001194",
-      "1000001494"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-453-j5jtup5s-v2/imageContent-453-j5jtup5s-m2.png",
-    "channel_genre": "Lifestyle"
   },
   {
     "channel_id": "480",
@@ -6632,6 +6593,59 @@
       "1000000445"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11858-j9l1v6k8-v3/imageContent-11858-j9l1v6k8-m4.png",
+    "channel_genre": "Lifestyle"
+  },
+  {
+    "channel_id": "135",
+    "channel_name": "TLC",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000145",
+    "channel_url": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_127/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000001084",
+      "1000000001",
+      "1000001104",
+      "1000001203",
+      "1000002358",
+      "1000001001",
+      "1000001427",
+      "1000001345",
+      "1000002393",
+      "1000001227",
+      "1000000445",
+      "1000001204",
+      "1000001079",
+      "1000001273",
+      "1000001429",
+      "1000002353",
+      "1000001226",
+      "1000001003",
+      "1000001114",
+      "1000001835",
+      "1000001225",
+      "1000000077",
+      "1000001195",
+      "1000001002",
+      "1000001105",
+      "1000001364",
+      "1000002374",
+      "1000001087",
+      "1000001088",
+      "1000001523",
+      "1000001271",
+      "1000001278",
+      "1000001342",
+      "1000001269",
+      "1000000182",
+      "1000001035",
+      "1000000985",
+      "1000001444",
+      "1000000808",
+      "1000001365",
+      "1000000807",
+      "1000001194",
+      "1000001494"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-453-j5jtup5s-v2/imageContent-453-j5jtup5s-m2.png",
     "channel_genre": "Lifestyle"
   },
   {
@@ -6869,43 +6883,6 @@
     "channel_genre": "Spiritual"
   },
   {
-    "channel_id": "103",
-    "channel_name": "MTV",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000104",
-    "channel_url": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_105/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000001329",
-      "1000001091",
-      "1000001205",
-      "1000000708",
-      "1000000155",
-      "1000001196",
-      "1000001343",
-      "1000001035",
-      "1000002262",
-      "1000001418",
-      "1000002263",
-      "1000001388",
-      "1000001349",
-      "1000001299",
-      "1000001089",
-      "1000001387",
-      "1000001311",
-      "1000001303",
-      "1000001323",
-      "1000001324",
-      "1000001302",
-      "1000001227",
-      "1000000077",
-      "1000001322",
-      "1000000001",
-      "1000001425",
-      "1000001523"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-330-j5jl5on4-v2/imageContent-330-j5jl5on4-m2.png",
-    "channel_genre": "Music"
-  },
-  {
     "channel_id": "406",
     "channel_name": "MTV HD",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000426",
@@ -6941,6 +6918,43 @@
       "1000001343"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11610-j9jzore8-v2/imageContent-11610-j9jzore8-m2.png",
+    "channel_genre": "Music"
+  },
+  {
+    "channel_id": "103",
+    "channel_name": "MTV",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000104",
+    "channel_url": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_105/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000001329",
+      "1000001091",
+      "1000001205",
+      "1000000708",
+      "1000000155",
+      "1000001196",
+      "1000001343",
+      "1000001035",
+      "1000002262",
+      "1000001418",
+      "1000002263",
+      "1000001388",
+      "1000001349",
+      "1000001299",
+      "1000001089",
+      "1000001387",
+      "1000001311",
+      "1000001303",
+      "1000001323",
+      "1000001324",
+      "1000001302",
+      "1000001227",
+      "1000000077",
+      "1000001322",
+      "1000000001",
+      "1000001425",
+      "1000001523"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-330-j5jl5on4-v2/imageContent-330-j5jl5on4-m2.png",
     "channel_genre": "Music"
   },
   {
@@ -7163,6 +7177,21 @@
     "channel_genre": "Music"
   },
   {
+    "channel_id": "17",
+    "channel_name": "Mastiii",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000019",
+    "channel_url": "https://bpweb4.akamaized-staging.net/bpk-tv/irdeto_com_Channel_279/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000000393",
+      "1000000077",
+      "1000000002",
+      "1000001368",
+      "1000000001"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57-j5fdr2f4-v1/imageContent-57-j5fdr2f4-m1.png",
+    "channel_genre": "Music"
+  },
+  {
     "channel_id": "39",
     "channel_name": "9X Jalwa",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000034",
@@ -7175,21 +7204,6 @@
       "1000000002"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-102-j5fl5pyg-v1/imageContent-102-j5fl5pyg-m1.png",
-    "channel_genre": "Music"
-  },
-  {
-    "channel_id": "17",
-    "channel_name": "Mastiii",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000019",
-    "channel_url": "https://bpweb4.akamaized.net/bpk-tv/irdeto_com_Channel_279/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000000077",
-      "1000000001",
-      "1000001368",
-      "1000000393",
-      "1000000002"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57-j5fdr2f4-v1/imageContent-57-j5fdr2f4-m1.png",
     "channel_genre": "Music"
   },
   {
@@ -7337,21 +7351,6 @@
     "channel_genre": "Spiritual"
   },
   {
-    "channel_id": "420",
-    "channel_name": "Peace of Mind",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000444",
-    "channel_url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_670/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000000001",
-      "1000000527",
-      "1000001035",
-      "1000001368",
-      "1000001038"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11664-j9kcouh4-v1/imageContent-11664-j9kcouh4-m1.png",
-    "channel_genre": "Spiritual"
-  },
-  {
     "channel_id": "385",
     "channel_name": "Sharnam TV",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000405",
@@ -7441,6 +7440,21 @@
     "channel_genre": "Spiritual"
   },
   {
+    "channel_id": "420",
+    "channel_name": "Peace of Mind",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000444",
+    "channel_url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_670/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000000001",
+      "1000000527",
+      "1000001035",
+      "1000001368",
+      "1000001038"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11664-j9kcouh4-v1/imageContent-11664-j9kcouh4-m1.png",
+    "channel_genre": "Spiritual"
+  },
+  {
     "channel_id": "283",
     "channel_name": "Aastha Bhajan",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000294",
@@ -7527,20 +7541,6 @@
     "channel_genre": "Spiritual"
   },
   {
-    "channel_id": "1119",
-    "channel_name": "Sanskriti 24x7",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001282",
-    "channel_url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_1921/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000000001",
-      "1000000002",
-      "1000002453",
-      "1000001368"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SA24x7_Thumbnail-v2/SA24x7_Thumbnail.png",
-    "channel_genre": null
-  },
-  {
     "channel_id": "969",
     "channel_name": "Aadinath TV",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001121",
@@ -7553,6 +7553,20 @@
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69024-kzo68h3c-v1/imageContent-69024-kzo68h3c-m1.png",
     "channel_genre": "Spiritual"
+  },
+  {
+    "channel_id": "1119",
+    "channel_name": "Sanskriti 24x7",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001282",
+    "channel_url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_1921/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000000001",
+      "1000000002",
+      "1000002453",
+      "1000001368"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SA24x7_Thumbnail-v2/SA24x7_Thumbnail.png",
+    "channel_genre": null
   },
   {
     "channel_id": "837",
@@ -7604,6 +7618,20 @@
     "channel_genre": "Regional Hindi"
   },
   {
+    "channel_id": "970",
+    "channel_name": "MH One Dil Se",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001124",
+    "channel_url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1800/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000001368",
+      "1000002038",
+      "1000000001",
+      "1000000002"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69027-kzo69re0-v1/imageContent-69027-kzo69re0-m2.png",
+    "channel_genre": "Regional Hindi"
+  },
+  {
     "channel_id": "814",
     "channel_name": "Zee Biskope",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000909",
@@ -7627,44 +7655,6 @@
       "1000001127"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52853-k982u9ts-v1/imageContent-52853-k982u9ts-m1.png",
-    "channel_genre": "Regional Hindi"
-  },
-  {
-    "channel_id": "970",
-    "channel_name": "MH One Dil Se",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001124",
-    "channel_url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1800/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000001368",
-      "1000002038",
-      "1000000001",
-      "1000000002"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69027-kzo69re0-v1/imageContent-69027-kzo69re0-m2.png",
-    "channel_genre": "Regional Hindi"
-  },
-  {
-    "channel_id": "830",
-    "channel_name": "Filamchi Bhojpuri",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000957",
-    "channel_url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1126/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000001771",
-      "1000001875",
-      "1000000002",
-      "1000001874",
-      "1000001482",
-      "1000000001",
-      "1000001079",
-      "1000000891",
-      "1000000706",
-      "1000001878",
-      "1000001095",
-      "1000001523",
-      "1000001363",
-      "1000002206"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-55553-kdzetu0o-v3/imageContent-55553-kdzetu0o-m8.png",
     "channel_genre": "Regional Hindi"
   },
   {
@@ -7699,6 +7689,30 @@
     "channel_genre": "Regional Hindi"
   },
   {
+    "channel_id": "830",
+    "channel_name": "Filamchi Bhojpuri",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000957",
+    "channel_url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1126/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000001771",
+      "1000001875",
+      "1000000002",
+      "1000001874",
+      "1000001482",
+      "1000000001",
+      "1000001079",
+      "1000000891",
+      "1000000706",
+      "1000001878",
+      "1000001095",
+      "1000001523",
+      "1000001363",
+      "1000002206"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-55553-kdzetu0o-v3/imageContent-55553-kdzetu0o-m8.png",
+    "channel_genre": "Regional Hindi"
+  },
+  {
     "channel_id": "729",
     "channel_name": "B4U Bhojpuri",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000788",
@@ -7725,20 +7739,6 @@
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62150-knicubns-v2/imageContent-62150-knicubns-m2.png",
     "channel_genre": "Movies"
-  },
-  {
-    "channel_id": "838",
-    "channel_name": "Kashish News",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000972",
-    "channel_url": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1130/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000000002",
-      "1000001523",
-      "1000000001",
-      "1000000425"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56320-kf6aheeo-v2/imageContent-56320-kf6aheeo-m3.png",
-    "channel_genre": "Regional Hindi"
   },
   {
     "channel_id": "79",
@@ -7779,6 +7779,20 @@
       "1000001419"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23223-jeyhnzfs-v1/imageContent-23223-jeyhnzfs-m1.png",
+    "channel_genre": "Regional Hindi"
+  },
+  {
+    "channel_id": "838",
+    "channel_name": "Kashish News",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000972",
+    "channel_url": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1130/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000000002",
+      "1000001523",
+      "1000000001",
+      "1000000425"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56320-kf6aheeo-v2/imageContent-56320-kf6aheeo-m3.png",
     "channel_genre": "Regional Hindi"
   },
   {
@@ -7925,21 +7939,6 @@
     "channel_genre": "News"
   },
   {
-    "channel_id": "613",
-    "channel_name": "News State UP Uttarakhand",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000637",
-    "channel_url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_661/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000000001",
-      "1000001368",
-      "1000001035",
-      "1000000483",
-      "1000001523"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12252-j9qrkgu8-v3/imageContent-12252-j9qrkgu8-m2.png",
-    "channel_genre": "News"
-  },
-  {
     "channel_id": "827",
     "channel_name": "Sadhna Plus News",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000948",
@@ -7967,6 +7966,21 @@
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-69315-l02nqy9k-v1/imageContent-69315-l02nqy9k-m6.png",
     "channel_genre": "Regional Hindi"
+  },
+  {
+    "channel_id": "613",
+    "channel_name": "News State UP Uttarakhand",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000637",
+    "channel_url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_661/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000000001",
+      "1000001368",
+      "1000001035",
+      "1000000483",
+      "1000001523"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12252-j9qrkgu8-v3/imageContent-12252-j9qrkgu8-m2.png",
+    "channel_genre": "News"
   },
   {
     "channel_id": "316",
@@ -8061,21 +8075,6 @@
     "channel_genre": "Regional Hindi"
   },
   {
-    "channel_id": "27",
-    "channel_name": "IBC 24",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000026",
-    "channel_url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_331/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000001035",
-      "1000000001",
-      "1000001368",
-      "1000001523",
-      "1000000079"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-78-j5fikkk8-v1/imageContent-78-j5fikkk8-m1.png",
-    "channel_genre": "Regional Hindi"
-  },
-  {
     "channel_id": "512",
     "channel_name": "Zee Madhya Pradesh Chattisgarh",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000548",
@@ -8111,6 +8110,21 @@
     "channel_genre": "Regional Hindi"
   },
   {
+    "channel_id": "27",
+    "channel_name": "IBC 24",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000026",
+    "channel_url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_331/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000001035",
+      "1000000001",
+      "1000001368",
+      "1000001523",
+      "1000000079"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-78-j5fikkk8-v1/imageContent-78-j5fikkk8-m1.png",
+    "channel_genre": "Regional Hindi"
+  },
+  {
     "channel_id": "652",
     "channel_name": "Bansal News",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000690",
@@ -8143,21 +8157,6 @@
     "channel_genre": "Regional Hindi"
   },
   {
-    "channel_id": "222",
-    "channel_name": "India News MP CG",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000168",
-    "channel_url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_359/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000001368",
-      "1000000001",
-      "1000001523",
-      "1000000487",
-      "1000001035"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8971-j7rffd40-v1/imageContent-8971-j7rffd40-m1.png",
-    "channel_genre": "News"
-  },
-  {
     "channel_id": "643",
     "channel_name": "News State MP CG",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000679",
@@ -8174,21 +8173,6 @@
     "channel_genre": "News"
   },
   {
-    "channel_id": "577",
-    "channel_name": "Swaraj Express SMBC",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000605",
-    "channel_url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_719/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000000077",
-      "1000000001",
-      "1000001523",
-      "1000001035",
-      "1000000697"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12143-j9p7vx9c-v1/imageContent-12143-j9p7vx9c-m1.png",
-    "channel_genre": "News"
-  },
-  {
     "channel_id": "829",
     "channel_name": "Sadhna News MP CG",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000944",
@@ -8202,6 +8186,36 @@
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-55112-kd88u9so-v1/imageContent-55112-kd88u9so-m2.png",
     "channel_genre": "Regional Hindi"
+  },
+  {
+    "channel_id": "222",
+    "channel_name": "India News MP CG",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000168",
+    "channel_url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_359/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000001368",
+      "1000000001",
+      "1000001523",
+      "1000000487",
+      "1000001035"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8971-j7rffd40-v1/imageContent-8971-j7rffd40-m1.png",
+    "channel_genre": "News"
+  },
+  {
+    "channel_id": "577",
+    "channel_name": "Swaraj Express SMBC",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000605",
+    "channel_url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_719/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000000077",
+      "1000000001",
+      "1000001523",
+      "1000001035",
+      "1000000697"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12143-j9p7vx9c-v1/imageContent-12143-j9p7vx9c-m1.png",
+    "channel_genre": "News"
   },
   {
     "channel_id": "902",
@@ -8260,20 +8274,6 @@
     "channel_genre": null
   },
   {
-    "channel_id": "1159",
-    "channel_name": "NDTV MPCG",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001305",
-    "channel_url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_1943/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000002461",
-      "1000001368",
-      "1000000001",
-      "1000000002"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/NDTVMP_Thumbnail-v2/NDTVMP_Thumbnail.png",
-    "channel_genre": null
-  },
-  {
     "channel_id": "1074",
     "channel_name": "TV 24",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001242",
@@ -8285,6 +8285,20 @@
       "1000000975"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TV24N_Thumbnail-v2/TV24N_Thumbnail.png",
+    "channel_genre": null
+  },
+  {
+    "channel_id": "1159",
+    "channel_name": "NDTV MPCG",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001305",
+    "channel_url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_1943/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000002461",
+      "1000001368",
+      "1000000001",
+      "1000000002"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/NDTVMP_Thumbnail-v2/NDTVMP_Thumbnail.png",
     "channel_genre": null
   },
   {
@@ -8345,21 +8359,6 @@
     "channel_genre": "Regional Hindi"
   },
   {
-    "channel_id": "650",
-    "channel_name": "First India Rajasthan",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000686",
-    "channel_url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_884/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000001035",
-      "1000000001",
-      "1000001368",
-      "1000001523",
-      "1000000928"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25048-jhir0kko-v1/imageContent-25048-jhir0kko-m1.png",
-    "channel_genre": "Regional Hindi"
-  },
-  {
     "channel_id": "583",
     "channel_name": "Zee Rajasthan News",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000610",
@@ -8395,6 +8394,21 @@
     "channel_genre": "Regional Hindi"
   },
   {
+    "channel_id": "650",
+    "channel_name": "First India Rajasthan",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000686",
+    "channel_url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_884/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000001035",
+      "1000000001",
+      "1000001368",
+      "1000001523",
+      "1000000928"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25048-jhir0kko-v1/imageContent-25048-jhir0kko-m1.png",
+    "channel_genre": "Regional Hindi"
+  },
+  {
     "channel_id": "14",
     "channel_name": "India News Rajasthan",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000014",
@@ -8425,20 +8439,6 @@
     "channel_genre": "News"
   },
   {
-    "channel_id": "1152",
-    "channel_name": "NDTV Rajasthan",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001304",
-    "channel_url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_1942/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000000001",
-      "1000000002",
-      "1000002462",
-      "1000001368"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/NDTVRA_Thumbnail-v3/NDTVRA_Thumbnail.png",
-    "channel_genre": null
-  },
-  {
     "channel_id": "870",
     "channel_name": "Jan TV",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001015",
@@ -8452,6 +8452,34 @@
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-58492-kixkb2ug-v1/imageContent-58492-kixkb2ug-m1.png",
     "channel_genre": "Regional Hindi"
+  },
+  {
+    "channel_id": "1075",
+    "channel_name": "Sach Bedhadak",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001240",
+    "channel_url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_1888/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000001368",
+      "1000000002",
+      "1000002332",
+      "1000000001"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SACHB_Thumbnail-v2/SACHB_Thumbnail.png",
+    "channel_genre": null
+  },
+  {
+    "channel_id": "1152",
+    "channel_name": "NDTV Rajasthan",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001304",
+    "channel_url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_1942/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000000001",
+      "1000000002",
+      "1000002462",
+      "1000001368"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/NDTVRA_Thumbnail-v3/NDTVRA_Thumbnail.png",
+    "channel_genre": null
   },
   {
     "channel_id": "332",
@@ -8511,20 +8539,6 @@
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11426-j9jqror4-v3/imageContent-11426-j9jqror4-m3.png",
     "channel_genre": "Regional Hindi"
-  },
-  {
-    "channel_id": "1075",
-    "channel_name": "Sach Bedhadak",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001240",
-    "channel_url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_1888/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000001368",
-      "1000000002",
-      "1000002332",
-      "1000000001"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/SACHB_Thumbnail-v2/SACHB_Thumbnail.png",
-    "channel_genre": null
   },
   {
     "channel_id": "518",
@@ -9019,21 +9033,6 @@
     "channel_genre": "Regional Marathi"
   },
   {
-    "channel_id": "546",
-    "channel_name": "Saam TV",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000576",
-    "channel_url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_326/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000001368",
-      "1000000001",
-      "1000000069",
-      "1000001035",
-      "1000001523"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12056-j9o5hia8-v1/imageContent-12056-j9o5hia8-m1.png",
-    "channel_genre": "Regional Marathi"
-  },
-  {
     "channel_id": "261",
     "channel_name": "Zee 24 Taas",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000275",
@@ -9063,6 +9062,21 @@
       "1000001102"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11156-j96xbrfk-v1/imageContent-11156-j96xbrfk-m1.png",
+    "channel_genre": "Regional Marathi"
+  },
+  {
+    "channel_id": "546",
+    "channel_name": "Saam TV",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000576",
+    "channel_url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_326/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000001368",
+      "1000000001",
+      "1000000069",
+      "1000001035",
+      "1000001523"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12056-j9o5hia8-v1/imageContent-12056-j9o5hia8-m1.png",
     "channel_genre": "Regional Marathi"
   },
   {
@@ -9957,6 +9971,33 @@
     "channel_genre": "Regional Telugu"
   },
   {
+    "channel_id": "361",
+    "channel_name": "Gemini Life",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000373",
+    "channel_url": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_549/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000001423",
+      "1000001523",
+      "1000002395",
+      "1000000823",
+      "1000001222",
+      "1000001070",
+      "1000001376",
+      "1000000395",
+      "1000000667",
+      "1000000001",
+      "1000001069",
+      "1000001213",
+      "1000001427",
+      "1000001429",
+      "1000002396",
+      "1000000009",
+      "1000001216"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11437-j9jqv7ao-v2/imageContent-11437-j9jqv7ao-m2.png",
+    "channel_genre": "Regional Telugu"
+  },
+  {
     "channel_id": "359",
     "channel_name": "ETV HD",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000370",
@@ -9987,33 +10028,6 @@
     "channel_genre": "Regional Telugu"
   },
   {
-    "channel_id": "361",
-    "channel_name": "Gemini Life",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000373",
-    "channel_url": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_549/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000001423",
-      "1000001523",
-      "1000002395",
-      "1000000823",
-      "1000001222",
-      "1000001070",
-      "1000001376",
-      "1000000395",
-      "1000000667",
-      "1000000001",
-      "1000001069",
-      "1000001213",
-      "1000001427",
-      "1000001429",
-      "1000002396",
-      "1000000009",
-      "1000001216"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11437-j9jqv7ao-v2/imageContent-11437-j9jqv7ao-m2.png",
-    "channel_genre": "Regional Telugu"
-  },
-  {
     "channel_id": "352",
     "channel_name": "ETV Plus",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000366",
@@ -10040,20 +10054,6 @@
     "channel_genre": "Regional Telugu"
   },
   {
-    "channel_id": "996",
-    "channel_name": "Tata Play Toons+",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001157",
-    "channel_url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1822/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000000001",
-      "1000000002",
-      "1000001819",
-      "1000002141"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TONSTEL_Thumbnail-v4/TONSTEL_Thumbnail.png",
-    "channel_genre": null
-  },
-  {
     "channel_id": "590",
     "channel_name": "Telugu Naaptol",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000617",
@@ -10068,6 +10068,20 @@
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12186-j9plqam8-v4/imageContent-12186-j9plqam8-m5.png",
     "channel_genre": "Regional Telugu"
+  },
+  {
+    "channel_id": "996",
+    "channel_name": "Tata Play Toons+",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001157",
+    "channel_url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1822/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000000001",
+      "1000000002",
+      "1000001819",
+      "1000002141"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TONSTEL_Thumbnail-v4/TONSTEL_Thumbnail.png",
+    "channel_genre": null
   },
   {
     "channel_id": "585",
@@ -10396,6 +10410,22 @@
     "channel_genre": "Regional Telugu"
   },
   {
+    "channel_id": "596",
+    "channel_name": "Sakshi TV",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000620",
+    "channel_url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_701/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000001035",
+      "1000000001",
+      "1000000235",
+      "1000001385",
+      "1000001247",
+      "1000001523"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12260-j9qv0lz4-v1/imageContent-12260-j9qv0lz4-m1.png",
+    "channel_genre": "Regional Telugu"
+  },
+  {
     "channel_id": "358",
     "channel_name": "ETV Abhiruchi",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000369",
@@ -10420,47 +10450,6 @@
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11417-j9jqpcnc-v1/imageContent-11417-j9jqpcnc-m1.png",
     "channel_genre": "Regional Kannada"
-  },
-  {
-    "channel_id": "596",
-    "channel_name": "Sakshi TV",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000620",
-    "channel_url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_701/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000001035",
-      "1000000001",
-      "1000000235",
-      "1000001385",
-      "1000001247",
-      "1000001523"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12260-j9qv0lz4-v1/imageContent-12260-j9qv0lz4-m1.png",
-    "channel_genre": "Regional Telugu"
-  },
-  {
-    "channel_id": "146",
-    "channel_name": "ETV Andhra Pradesh",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000160",
-    "channel_url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_226/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000000001",
-      "1000001376",
-      "1000001922",
-      "1000001213",
-      "1000001523",
-      "1000000132",
-      "1000001222",
-      "1000001821",
-      "1000002069",
-      "1000001396",
-      "1000001035",
-      "1000001216",
-      "1000000823",
-      "1000000667",
-      "1000001427"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-498-j5jy7i80-v1/imageContent-498-j5jy7i80-m1.png",
-    "channel_genre": "Regional Telugu"
   },
   {
     "channel_id": "320",
@@ -10527,18 +10516,28 @@
     "channel_genre": "Regional Telugu"
   },
   {
-    "channel_id": "274",
-    "channel_name": "V6 Telugu",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000288",
-    "channel_url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_810/output/manifest.mpd",
+    "channel_id": "146",
+    "channel_name": "ETV Andhra Pradesh",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000160",
+    "channel_url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_226/output/manifest.mpd",
     "channel_entitlements": [
-      "1000001523",
       "1000000001",
+      "1000001376",
+      "1000001922",
+      "1000001213",
+      "1000001523",
+      "1000000132",
+      "1000001222",
+      "1000001821",
+      "1000002069",
+      "1000001396",
       "1000001035",
-      "1000000344",
-      "1000001368"
+      "1000001216",
+      "1000000823",
+      "1000000667",
+      "1000001427"
     ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11194-j9i4cz80-v1/imageContent-11194-j9i4cz80-m1.png",
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-498-j5jy7i80-v1/imageContent-498-j5jy7i80-m1.png",
     "channel_genre": "Regional Telugu"
   },
   {
@@ -10611,6 +10610,21 @@
       "1000000001"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11697-j9kjhxs0-v3/imageContent-11697-j9kjhxs0-m3.png",
+    "channel_genre": "Regional Telugu"
+  },
+  {
+    "channel_id": "274",
+    "channel_name": "V6 Telugu",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000288",
+    "channel_url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_810/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000001523",
+      "1000000001",
+      "1000001035",
+      "1000000344",
+      "1000001368"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11194-j9i4cz80-v1/imageContent-11194-j9i4cz80-m1.png",
     "channel_genre": "Regional Telugu"
   },
   {
@@ -10762,21 +10776,6 @@
     "channel_genre": "Regional Telugu"
   },
   {
-    "channel_id": "290",
-    "channel_name": "Bhakti TV",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000304",
-    "channel_url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_474/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000001035",
-      "1000000001",
-      "1000001368",
-      "1000000282",
-      "1000001523"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11242-j9irisyw-v2/imageContent-11242-j9irisyw-m2.png",
-    "channel_genre": "Regional Telugu"
-  },
-  {
     "channel_id": "445",
     "channel_name": "Shubhavaarta TV",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000471",
@@ -10807,6 +10806,36 @@
     "channel_genre": "Regional Telugu"
   },
   {
+    "channel_id": "290",
+    "channel_name": "Bhakti TV",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000304",
+    "channel_url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_474/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000001035",
+      "1000000001",
+      "1000001368",
+      "1000000282",
+      "1000001523"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11242-j9irisyw-v2/imageContent-11242-j9irisyw-m2.png",
+    "channel_genre": "Regional Telugu"
+  },
+  {
+    "channel_id": "351",
+    "channel_name": "Swara Sagar",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000364",
+    "channel_url": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_533/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000001035",
+      "1000000763",
+      "1000001523",
+      "1000001368",
+      "1000000001"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33495-jnqw9k9c-v4/imageContent-33495-jnqw9k9c-m5.png",
+    "channel_genre": "Regional Telugu"
+  },
+  {
     "channel_id": "630",
     "channel_name": "Hindu Dharmam",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000655",
@@ -10827,61 +10856,46 @@
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000542",
     "channel_url": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_760/output/manifest.mpd",
     "channel_entitlements": [
-      "1000001053",
-      "1000000033",
-      "1000001397",
-      "1000000179",
-      "1000000001",
-      "1000001721",
-      "1000000819",
-      "1000002412",
-      "1000001375",
-      "1000002411",
-      "1000001221",
-      "1000001041",
-      "1000001429",
       "1000002409",
-      "1000001067",
-      "1000000009",
-      "1000001046",
-      "1000001212",
-      "1000001058",
-      "1000001071",
-      "1000001420",
-      "1000000822",
-      "1000002413",
-      "1000001044",
       "1000001059",
-      "1000001523",
-      "1000001417",
-      "1000000391",
-      "1000001078",
-      "1000001064",
-      "1000001045",
-      "1000001063",
-      "1000001062",
       "1000001374",
-      "1000001048",
+      "1000001045",
+      "1000001053",
+      "1000001064",
+      "1000001221",
+      "1000001067",
+      "1000001058",
+      "1000001523",
+      "1000000822",
       "1000001423",
-      "1000001065"
+      "1000002413",
+      "1000001046",
+      "1000000391",
+      "1000001065",
+      "1000001375",
+      "1000001212",
+      "1000001062",
+      "1000002411",
+      "1000000009",
+      "1000001429",
+      "1000001063",
+      "1000001420",
+      "1000001078",
+      "1000000819",
+      "1000001044",
+      "1000001041",
+      "1000001071",
+      "1000001417",
+      "1000001397",
+      "1000002412",
+      "1000001048",
+      "1000000033",
+      "1000001721",
+      "1000000179",
+      "1000000001"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11960-j9lu9vow-v1/imageContent-11960-j9lu9vow-m1.png",
     "channel_genre": "Regional Tamil"
-  },
-  {
-    "channel_id": "351",
-    "channel_name": "Swara Sagar",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000364",
-    "channel_url": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_533/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000001035",
-      "1000000763",
-      "1000001523",
-      "1000001368",
-      "1000000001"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33495-jnqw9k9c-v4/imageContent-33495-jnqw9k9c-m5.png",
-    "channel_genre": "Regional Telugu"
   },
   {
     "channel_id": "474",
@@ -10918,36 +10932,36 @@
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000526",
     "channel_url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_818/output/manifest.mpd",
     "channel_entitlements": [
-      "1000001523",
-      "1000001221",
-      "1000000033",
-      "1000000001",
-      "1000001182",
-      "1000001078",
-      "1000001212",
-      "1000002411",
-      "1000000561",
-      "1000001517",
-      "1000001465",
-      "1000001434",
-      "1000002412",
-      "1000001173",
-      "1000000819",
-      "1000002256",
-      "1000002409",
-      "1000001035",
-      "1000002413",
-      "1000002255",
-      "1000001504",
-      "1000001076",
-      "1000000175",
-      "1000000822",
-      "1000002405",
-      "1000001456",
-      "1000001397",
-      "1000001374",
       "1000001430",
-      "1000001375"
+      "1000002411",
+      "1000002256",
+      "1000001434",
+      "1000000033",
+      "1000001456",
+      "1000001374",
+      "1000001212",
+      "1000001078",
+      "1000000561",
+      "1000000175",
+      "1000002409",
+      "1000002255",
+      "1000001523",
+      "1000001397",
+      "1000001221",
+      "1000001375",
+      "1000000822",
+      "1000000819",
+      "1000000001",
+      "1000002412",
+      "1000001182",
+      "1000002405",
+      "1000001076",
+      "1000001173",
+      "1000001465",
+      "1000002413",
+      "1000001504",
+      "1000001035",
+      "1000001517"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11909-j9l52epk-v2/imageContent-11909-j9l52epk-m4.png",
     "channel_genre": "Regional Tamil"
@@ -10958,42 +10972,42 @@
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000633",
     "channel_url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_842/output/manifest.mpd",
     "channel_entitlements": [
-      "1000001430",
-      "1000002409",
-      "1000002413",
-      "1000001076",
-      "1000000819",
-      "1000001434",
-      "1000001139",
-      "1000000001",
-      "1000001212",
-      "1000001035",
-      "1000002226",
-      "1000001428",
-      "1000000267",
-      "1000001509",
-      "1000001545",
-      "1000001397",
-      "1000001553",
-      "1000001221",
       "1000002412",
+      "1000002411",
+      "1000001375",
+      "1000002413",
+      "1000001509",
       "1000000033",
       "1000001523",
-      "1000001078",
-      "1000002405",
-      "1000000884",
-      "1000001375",
-      "1000001794",
-      "1000001504",
-      "1000001728",
-      "1000000822",
-      "1000002411",
-      "1000001546",
+      "1000000819",
+      "1000001212",
+      "1000000267",
       "1000001267",
-      "1000001517",
-      "1000001821",
+      "1000001430",
+      "1000002405",
+      "1000001076",
+      "1000000001",
       "1000001420",
-      "1000001374"
+      "1000001546",
+      "1000002409",
+      "1000001397",
+      "1000001545",
+      "1000001794",
+      "1000001434",
+      "1000001821",
+      "1000000822",
+      "1000001374",
+      "1000001517",
+      "1000001221",
+      "1000001139",
+      "1000001035",
+      "1000001728",
+      "1000002226",
+      "1000001553",
+      "1000001078",
+      "1000001428",
+      "1000001504",
+      "1000000884"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11997-j9lux9ig-v1/imageContent-11997-j9lux9ig-m5.png",
     "channel_genre": "Regional Tamil"
@@ -11004,41 +11018,41 @@
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000271",
     "channel_url": "https://bpprod3linear.akamaized.net/bpk-tv/irdeto_com_Channel_429/output/manifest.mpd",
     "channel_entitlements": [
-      "1000001374",
-      "1000001397",
-      "1000001553",
-      "1000002226",
-      "1000000001",
-      "1000001545",
-      "1000001267",
-      "1000001509",
-      "1000001430",
-      "1000001821",
-      "1000001523",
-      "1000001420",
-      "1000001076",
-      "1000001546",
-      "1000001139",
-      "1000001504",
       "1000001794",
-      "1000001078",
-      "1000002409",
-      "1000002412",
-      "1000001517",
-      "1000001212",
-      "1000000816",
+      "1000001523",
       "1000000884",
-      "1000000666",
-      "1000001375",
-      "1000002411",
-      "1000001035",
-      "1000001728",
-      "1000001428",
-      "1000000267",
-      "1000001434",
-      "1000002413",
+      "1000001267",
       "1000002405",
-      "1000001221"
+      "1000001035",
+      "1000000816",
+      "1000001728",
+      "1000000666",
+      "1000002412",
+      "1000001397",
+      "1000001509",
+      "1000002413",
+      "1000001221",
+      "1000001517",
+      "1000001428",
+      "1000001434",
+      "1000001504",
+      "1000001430",
+      "1000002411",
+      "1000001078",
+      "1000001139",
+      "1000001374",
+      "1000001553",
+      "1000001420",
+      "1000001545",
+      "1000000267",
+      "1000001821",
+      "1000001375",
+      "1000001546",
+      "1000002226",
+      "1000002409",
+      "1000001212",
+      "1000000001",
+      "1000001076"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-9006-j7rlwsns-v2/imageContent-9006-j7rlwsns-m4.png",
     "channel_genre": "Regional Tamil"
@@ -11049,50 +11063,50 @@
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000713",
     "channel_url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_916/output/manifest.mpd",
     "channel_entitlements": [
-      "1000000033",
-      "1000000764",
-      "1000000001",
-      "1000001305",
-      "1000002412",
-      "1000002409",
-      "1000001162",
-      "1000001375",
-      "1000001221",
-      "1000001430",
-      "1000001428",
-      "1000001217",
-      "1000002411",
       "1000001421",
-      "1000001420",
-      "1000001076",
-      "1000001523",
-      "1000000966",
-      "1000001429",
-      "1000001509",
-      "1000000822",
-      "1000001316",
-      "1000001545",
-      "1000001374",
-      "1000001450",
-      "1000001451",
-      "1000001349",
-      "1000001325",
+      "1000000033",
       "1000002413",
-      "1000002405",
-      "1000001546",
-      "1000000819",
-      "1000001227",
-      "1000001839",
-      "1000001547",
       "1000001078",
+      "1000001430",
+      "1000001547",
+      "1000001076",
+      "1000001428",
+      "1000001545",
+      "1000001375",
+      "1000000822",
+      "1000001374",
       "1000001821",
-      "1000001434",
+      "1000001162",
+      "1000002411",
+      "1000002409",
+      "1000001450",
       "1000001548",
       "1000001212",
-      "1000001343",
-      "1000001035",
+      "1000000001",
+      "1000001448",
+      "1000001349",
+      "1000000966",
+      "1000001325",
+      "1000001523",
+      "1000001227",
+      "1000000819",
+      "1000001434",
       "1000001331",
-      "1000001448"
+      "1000001546",
+      "1000001429",
+      "1000001420",
+      "1000001839",
+      "1000002412",
+      "1000001343",
+      "1000000764",
+      "1000001451",
+      "1000002405",
+      "1000001035",
+      "1000001221",
+      "1000001509",
+      "1000001217",
+      "1000001305",
+      "1000001316"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33814-jo5jba9s-v3/imageContent-33814-jo5jba9s-m3.PNG",
     "channel_genre": "Regional Tamil"
@@ -11103,52 +11117,52 @@
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000438",
     "channel_url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_665/output/manifest.mpd",
     "channel_entitlements": [
+      "1000001325",
+      "1000001430",
+      "1000002278",
+      "1000001545",
+      "1000001212",
+      "1000001420",
+      "1000001227",
+      "1000001035",
+      "1000001221",
+      "1000001451",
+      "1000001547",
+      "1000001421",
+      "1000001349",
+      "1000001375",
+      "1000000764",
+      "1000002413",
+      "1000000816",
+      "1000001448",
+      "1000000001",
+      "1000001343",
       "1000001305",
       "1000001548",
-      "1000000001",
-      "1000000764",
-      "1000001547",
-      "1000001325",
-      "1000001839",
-      "1000001509",
-      "1000001421",
-      "1000001217",
-      "1000001374",
-      "1000001420",
-      "1000002413",
-      "1000001349",
-      "1000001545",
-      "1000000816",
-      "1000001428",
-      "1000001448",
-      "1000001821",
-      "1000001221",
-      "1000002411",
-      "1000001227",
+      "1000002276",
       "1000000033",
-      "1000001546",
-      "1000001035",
-      "1000002405",
-      "1000001434",
-      "1000001430",
-      "1000001078",
-      "1000001523",
-      "1000000966",
+      "1000001331",
+      "1000001821",
+      "1000002411",
+      "1000001076",
+      "1000001217",
       "1000001162",
       "1000001450",
-      "1000002278",
-      "1000001331",
-      "1000001212",
-      "1000001375",
-      "1000002276",
+      "1000001523",
+      "1000001428",
+      "1000001509",
+      "1000001078",
+      "1000001839",
+      "1000001429",
+      "1000000966",
+      "1000001546",
       "1000002409",
       "1000002412",
-      "1000001429",
-      "1000001343",
       "1000001316",
-      "1000001451",
       "1000000666",
-      "1000001076"
+      "1000002405",
+      "1000001434",
+      "1000001374"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21152-je6orzfk-v1/imageContent-21152-je6orzfk-m1.png",
     "channel_genre": "Regional Tamil"
@@ -11159,18 +11173,18 @@
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000750",
     "channel_url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_947/output/manifest.mpd",
     "channel_entitlements": [
-      "1000000002",
-      "1000002413",
-      "1000001050",
-      "1000001839",
-      "1000001430",
       "1000001212",
-      "1000000655",
-      "1000002411",
-      "1000000001",
-      "1000001374",
+      "1000000822",
+      "1000002413",
+      "1000000002",
       "1000000819",
-      "1000000822"
+      "1000001430",
+      "1000001050",
+      "1000002411",
+      "1000000655",
+      "1000000001",
+      "1000001839",
+      "1000001374"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-38738-juc4a1ig-v5/imageContent-38738-juc4a1ig-m8.png",
     "channel_genre": "Regional Telugu"
@@ -11181,20 +11195,20 @@
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000214",
     "channel_url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_344/output/manifest.mpd",
     "channel_entitlements": [
-      "1000000819",
-      "1000002410",
-      "1000000001",
-      "1000000816",
-      "1000000201",
-      "1000002177",
-      "1000000822",
-      "1000001038",
-      "1000001035",
-      "1000000666",
-      "1000001274",
       "1000000223",
+      "1000002180",
+      "1000000666",
+      "1000001038",
+      "1000000819",
       "1000002205",
-      "1000002180"
+      "1000002177",
+      "1000000816",
+      "1000000822",
+      "1000001035",
+      "1000000001",
+      "1000001274",
+      "1000000201",
+      "1000002410"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-819-j5m8fsfs-v1/imageContent-819-j5m8fsfs-m1.png",
     "channel_genre": "Regional Tamil"
@@ -11212,6 +11226,31 @@
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/TONSTAM_Thumbnail-v6/TONSTAM_Thumbnail.png",
     "channel_genre": null
+  },
+  {
+    "channel_id": "439",
+    "channel_name": "Raj TV",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000456",
+    "channel_url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_691/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000000816",
+      "1000000163",
+      "1000001721",
+      "1000001374",
+      "1000002409",
+      "1000000666",
+      "1000001221",
+      "1000001523",
+      "1000001035",
+      "1000001212",
+      "1000002411",
+      "1000001011",
+      "1000000819",
+      "1000000822",
+      "1000000001"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11700-j9ksbotk-v1/imageContent-11700-j9ksbotk-m1.png",
+    "channel_genre": "Regional Tamil"
   },
   {
     "channel_id": "99",
@@ -11249,50 +11288,25 @@
     "channel_genre": "Regional Tamil"
   },
   {
-    "channel_id": "439",
-    "channel_name": "Raj TV",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000456",
-    "channel_url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_691/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000002409",
-      "1000000816",
-      "1000001011",
-      "1000001523",
-      "1000000819",
-      "1000000666",
-      "1000001221",
-      "1000001035",
-      "1000001212",
-      "1000000822",
-      "1000000001",
-      "1000001374",
-      "1000002411",
-      "1000001721",
-      "1000000163"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11700-j9ksbotk-v1/imageContent-11700-j9ksbotk-m1.png",
-    "channel_genre": "Regional Tamil"
-  },
-  {
     "channel_id": "426",
     "channel_name": "Raj Digital Plus",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000449",
     "channel_url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_683/output/manifest.mpd",
     "channel_entitlements": [
-      "1000000502",
-      "1000001721",
-      "1000002410",
-      "1000001212",
-      "1000001374",
-      "1000000001",
-      "1000001011",
       "1000001523",
-      "1000000822",
-      "1000001035",
-      "1000000816",
-      "1000001221",
+      "1000001374",
+      "1000001212",
       "1000000819",
-      "1000000666"
+      "1000000822",
+      "1000001221",
+      "1000001035",
+      "1000000502",
+      "1000000666",
+      "1000001011",
+      "1000001721",
+      "1000000001",
+      "1000000816",
+      "1000002410"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11679-j9khnqag-v1/imageContent-11679-j9khnqag-m1.png",
     "channel_genre": "Regional Tamil"
@@ -11303,21 +11317,21 @@
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000037",
     "channel_url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_347/output/manifest.mpd",
     "channel_entitlements": [
-      "1000000983",
-      "1000002410",
-      "1000000822",
-      "1000000991",
-      "1000001374",
-      "1000001212",
-      "1000000666",
-      "1000001035",
       "1000001221",
-      "1000000428",
-      "1000001523",
+      "1000001035",
+      "1000000991",
+      "1000000983",
+      "1000001374",
       "1000000001",
+      "1000000822",
+      "1000000428",
+      "1000001212",
       "1000000816",
-      "1000000990",
-      "1000000819"
+      "1000001523",
+      "1000000666",
+      "1000002410",
+      "1000000819",
+      "1000000990"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-111-j5fl5xo8-v1/imageContent-111-j5fl5xo8-m1.png",
     "channel_genre": "Regional Tamil"
@@ -11358,21 +11372,21 @@
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000615",
     "channel_url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_717/output/manifest.mpd",
     "channel_entitlements": [
+      "1000000822",
+      "1000000001",
+      "1000000201",
       "1000000666",
-      "1000001274",
-      "1000000816",
-      "1000002205",
-      "1000002180",
+      "1000001038",
       "1000002177",
       "1000000819",
-      "1000000822",
+      "1000002409",
       "1000001035",
-      "1000002411",
+      "1000002205",
       "1000000105",
-      "1000000201",
-      "1000000001",
-      "1000001038",
-      "1000002409"
+      "1000002411",
+      "1000001274",
+      "1000000816",
+      "1000002180"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12244-j9qq7k1c-v1/imageContent-12244-j9qq7k1c-m1.png",
     "channel_genre": "Regional Tamil"
@@ -11430,39 +11444,39 @@
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000400",
     "channel_url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_600/output/manifest.mpd",
     "channel_entitlements": [
-      "1000001058",
-      "1000000819",
-      "1000001212",
-      "1000001053",
-      "1000001041",
-      "1000001417",
-      "1000001523",
-      "1000001064",
-      "1000000001",
-      "1000001065",
-      "1000000004",
-      "1000002409",
-      "1000001045",
-      "1000001044",
-      "1000001067",
-      "1000000009",
-      "1000001063",
-      "1000001721",
-      "1000002411",
       "1000001071",
+      "1000000819",
+      "1000000822",
+      "1000001067",
+      "1000002409",
+      "1000001065",
+      "1000001058",
+      "1000001045",
+      "1000001523",
+      "1000001053",
+      "1000001374",
+      "1000000009",
+      "1000001059",
+      "1000001721",
+      "1000001221",
+      "1000001048",
+      "1000002411",
+      "1000001423",
+      "1000000001",
+      "1000001062",
+      "1000001063",
       "1000001429",
       "1000000407",
-      "1000000033",
-      "1000001420",
-      "1000001374",
-      "1000000822",
-      "1000001221",
       "1000001046",
-      "1000001048",
-      "1000001423",
-      "1000001059",
-      "1000001062",
-      "1000001397"
+      "1000001397",
+      "1000001064",
+      "1000001044",
+      "1000000033",
+      "1000001417",
+      "1000000004",
+      "1000001041",
+      "1000001212",
+      "1000001420"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11536-j9jty5w8-v1/imageContent-11536-j9jty5w8-m1.png",
     "channel_genre": "Regional Tamil"
@@ -11943,6 +11957,21 @@
     "channel_genre": "Regional Tamil"
   },
   {
+    "channel_id": "390",
+    "channel_name": "Madha TV",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000410",
+    "channel_url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_614/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000001523",
+      "1000001035",
+      "1000001368",
+      "1000000540",
+      "1000000001"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11562-j9juzmns-v1/imageContent-11562-j9juzmns-m1.png",
+    "channel_genre": "Regional Tamil"
+  },
+  {
     "channel_id": "282",
     "channel_name": "Angel TV",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000300",
@@ -11959,31 +11988,16 @@
     "channel_genre": "Regional Tamil"
   },
   {
-    "channel_id": "390",
-    "channel_name": "Madha TV",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000410",
-    "channel_url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_614/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000001523",
-      "1000001035",
-      "1000001368",
-      "1000000540",
-      "1000000001"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11562-j9juzmns-v1/imageContent-11562-j9juzmns-m1.png",
-    "channel_genre": "Regional Tamil"
-  },
-  {
     "channel_id": "408",
     "channel_name": "Nambikkai TV",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000430",
     "channel_url": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_651/output/manifest.mpd",
     "channel_entitlements": [
-      "1000001368",
-      "1000000002",
       "1000000640",
       "1000000001",
-      "1000001523"
+      "1000001523",
+      "1000000002",
+      "1000001368"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11622-j9k0845k-v2/imageContent-11622-j9k0845k-m2.png",
     "channel_genre": "Regional Tamil"
@@ -12078,6 +12092,39 @@
     "channel_genre": "Regional Kannada"
   },
   {
+    "channel_id": "108",
+    "channel_name": "Colors Kannada",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000109",
+    "channel_url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_157/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000000543",
+      "1000001429",
+      "1000001378",
+      "1000001428",
+      "1000001421",
+      "1000001420",
+      "1000001305",
+      "1000001398",
+      "1000001214",
+      "1000001035",
+      "1000001223",
+      "1000000136",
+      "1000000668",
+      "1000001496",
+      "1000001821",
+      "1000001325",
+      "1000001083",
+      "1000001379",
+      "1000001492",
+      "1000001523",
+      "1000001090",
+      "1000000583",
+      "1000000001"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-345-j5jmkws0-v2/imageContent-345-j5jmkws0-m4.png",
+    "channel_genre": "Regional Kannada"
+  },
+  {
     "channel_id": "467",
     "channel_name": "Star Suvarna HD",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000494",
@@ -12113,80 +12160,6 @@
       "1000001398"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11816-j9kz224o-v1/imageContent-11816-j9kz224o-m1.png",
-    "channel_genre": "Regional Kannada"
-  },
-  {
-    "channel_id": "108",
-    "channel_name": "Colors Kannada",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000109",
-    "channel_url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_157/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000000543",
-      "1000001429",
-      "1000001378",
-      "1000001428",
-      "1000001421",
-      "1000001420",
-      "1000001305",
-      "1000001398",
-      "1000001214",
-      "1000001035",
-      "1000001223",
-      "1000000136",
-      "1000000668",
-      "1000001496",
-      "1000001821",
-      "1000001325",
-      "1000001083",
-      "1000001379",
-      "1000001492",
-      "1000001523",
-      "1000001090",
-      "1000000583",
-      "1000000001"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-345-j5jmkws0-v2/imageContent-345-j5jmkws0-m4.png",
-    "channel_genre": "Regional Kannada"
-  },
-  {
-    "channel_id": "256",
-    "channel_name": "Zee Kannada",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000270",
-    "channel_url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_423/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000001428",
-      "1000001130",
-      "1000001083",
-      "1000001527",
-      "1000001706",
-      "1000001496",
-      "1000001553",
-      "1000001378",
-      "1000001552",
-      "1000000001",
-      "1000001133",
-      "1000001398",
-      "1000001420",
-      "1000001821",
-      "1000001519",
-      "1000001435",
-      "1000001090",
-      "1000000735",
-      "1000001035",
-      "1000000583",
-      "1000001492",
-      "1000001214",
-      "1000000668",
-      "1000001379",
-      "1000000033",
-      "1000001523",
-      "1000000968",
-      "1000001223",
-      "1000001757",
-      "1000001227",
-      "1000001506"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11030-j8yk2g3s-v1/imageContent-11030-j8yk2g3s-m1.png",
     "channel_genre": "Regional Kannada"
   },
   {
@@ -12233,17 +12206,58 @@
     "channel_genre": "Regional Kannada"
   },
   {
+    "channel_id": "256",
+    "channel_name": "Zee Kannada",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000270",
+    "channel_url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_423/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000001428",
+      "1000001130",
+      "1000001083",
+      "1000001527",
+      "1000001706",
+      "1000001496",
+      "1000001553",
+      "1000001378",
+      "1000001552",
+      "1000000001",
+      "1000001133",
+      "1000001398",
+      "1000001420",
+      "1000001821",
+      "1000001519",
+      "1000001435",
+      "1000001090",
+      "1000000735",
+      "1000001035",
+      "1000000583",
+      "1000001492",
+      "1000001214",
+      "1000000668",
+      "1000001379",
+      "1000000033",
+      "1000001523",
+      "1000000968",
+      "1000001223",
+      "1000001757",
+      "1000001227",
+      "1000001506"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11030-j8yk2g3s-v1/imageContent-11030-j8yk2g3s-m1.png",
+    "channel_genre": "Regional Kannada"
+  },
+  {
     "channel_id": "372",
     "channel_name": "Jeevan TV",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000392",
-    "channel_url": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_588/output/manifest.mpd",
+    "channel_url": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_588/output/manifest.mpd",
     "channel_entitlements": [
-      "1000000001",
       "1000000263",
-      "1000001247",
-      "1000001523",
       "1000001382",
-      "1000001035"
+      "1000001523",
+      "1000001035",
+      "1000001247",
+      "1000000001"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12323-jaa5pzxs-v1/imageContent-12323-jaa5pzxs-m1.png",
     "channel_genre": "Regional Malayalam"
@@ -12366,33 +12380,6 @@
     "channel_genre": "Regional Kannada"
   },
   {
-    "channel_id": "810",
-    "channel_name": "Zee Picchar",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000901",
-    "channel_url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_1000/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000000001",
-      "1000001821",
-      "1000001775",
-      "1000001130",
-      "1000001527",
-      "1000001523",
-      "1000001133",
-      "1000001688",
-      "1000001879",
-      "1000002177",
-      "1000001378",
-      "1000001083",
-      "1000001706",
-      "1000000668",
-      "1000001162",
-      "1000001435",
-      "1000000002"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52310-k7bd8ixk-v2/imageContent-52310-k7bd8ixk-m4.png",
-    "channel_genre": "Regional Kannada"
-  },
-  {
     "channel_id": "667",
     "channel_name": "Colors Kannada Cinema",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000706",
@@ -12426,6 +12413,33 @@
       "1000001821"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-31454-jmirfosw-v2/imageContent-31454-jmirfosw-m2.png",
+    "channel_genre": "Regional Kannada"
+  },
+  {
+    "channel_id": "810",
+    "channel_name": "Zee Picchar",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000901",
+    "channel_url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_1000/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000000001",
+      "1000001821",
+      "1000001775",
+      "1000001130",
+      "1000001527",
+      "1000001523",
+      "1000001133",
+      "1000001688",
+      "1000001879",
+      "1000002177",
+      "1000001378",
+      "1000001083",
+      "1000001706",
+      "1000000668",
+      "1000001162",
+      "1000001435",
+      "1000000002"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-52310-k7bd8ixk-v2/imageContent-52310-k7bd8ixk-m4.png",
     "channel_genre": "Regional Kannada"
   },
   {
@@ -12492,6 +12506,22 @@
     "channel_genre": "Regional Kannada"
   },
   {
+    "channel_id": "33",
+    "channel_name": "Public TV",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000032",
+    "channel_url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_316/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000001035",
+      "1000001523",
+      "1000000316",
+      "1000001247",
+      "1000000001",
+      "1000001381"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-98-j5fjwu7s-v2/imageContent-98-j5fjwu7s-m3.png",
+    "channel_genre": "Regional Kannada"
+  },
+  {
     "channel_id": "85",
     "channel_name": "News18 Kannada",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000085",
@@ -12532,22 +12562,6 @@
     "channel_genre": "Regional Kannada"
   },
   {
-    "channel_id": "33",
-    "channel_name": "Public TV",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000032",
-    "channel_url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_316/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000001035",
-      "1000001523",
-      "1000000316",
-      "1000001247",
-      "1000000001",
-      "1000001381"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-98-j5fjwu7s-v2/imageContent-98-j5fjwu7s-m3.png",
-    "channel_genre": "Regional Kannada"
-  },
-  {
     "channel_id": "629",
     "channel_name": "TV5 Kannada",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000654",
@@ -12563,21 +12577,6 @@
     "channel_genre": "Regional Kannada"
   },
   {
-    "channel_id": "824",
-    "channel_name": "Power TV",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000934",
-    "channel_url": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1119/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000001742",
-      "1000000001",
-      "1000001368",
-      "1000000002",
-      "1000001523"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-53941-kblrui1c-v3/imageContent-53941-kblrui1c-m3.png",
-    "channel_genre": "Regional Kannada"
-  },
-  {
     "channel_id": "510",
     "channel_name": "Raj News Kannada",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000539",
@@ -12590,6 +12589,21 @@
       "1000001035"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11948-j9ltrfc8-v1/imageContent-11948-j9ltrfc8-m1.png",
+    "channel_genre": "Regional Kannada"
+  },
+  {
+    "channel_id": "824",
+    "channel_name": "Power TV",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000934",
+    "channel_url": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_1119/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000001742",
+      "1000000001",
+      "1000001368",
+      "1000000002",
+      "1000001523"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-53941-kblrui1c-v3/imageContent-53941-kblrui1c-m3.png",
     "channel_genre": "Regional Kannada"
   },
   {
@@ -12669,6 +12683,21 @@
     "channel_genre": "Regional Kannada"
   },
   {
+    "channel_id": "424",
+    "channel_name": "Public Music",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000448",
+    "channel_url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_679/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000001035",
+      "1000001523",
+      "1000001368",
+      "1000000001",
+      "1000000537"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11676-j9khi3cw-v1/imageContent-11676-j9khi3cw-m1.png",
+    "channel_genre": "Regional Kannada"
+  },
+  {
     "channel_id": "477",
     "channel_name": "Sri Sankara TV",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000502",
@@ -12686,18 +12715,19 @@
     "channel_genre": "Regional Kannada"
   },
   {
-    "channel_id": "424",
-    "channel_name": "Public Music",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000448",
-    "channel_url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_679/output/manifest.mpd",
+    "channel_id": "660",
+    "channel_name": "Ayush TV",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000698",
+    "channel_url": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_893/output/manifest.mpd",
     "channel_entitlements": [
-      "1000001035",
-      "1000001523",
-      "1000001368",
       "1000000001",
-      "1000000537"
+      "1000001523",
+      "1000001035",
+      "1000001368",
+      "1000000944",
+      "1000001247"
     ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11676-j9khi3cw-v1/imageContent-11676-j9khi3cw-m1.png",
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11257-j9iy8oj4-v2/imageContent-11257-j9iy8oj4-m2.png",
     "channel_genre": "Regional Kannada"
   },
   {
@@ -12715,20 +12745,18 @@
     "channel_genre": "Regional Kannada"
   },
   {
-    "channel_id": "660",
-    "channel_name": "Ayush TV",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000698",
-    "channel_url": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_893/output/manifest.mpd",
+    "channel_id": "772",
+    "channel_name": "Tata Play Gujarati Cinema",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000853",
+    "channel_url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_967/output/manifest.mpd",
     "channel_entitlements": [
+      "1000000002",
+      "1000001534",
       "1000000001",
-      "1000001523",
-      "1000001035",
-      "1000001368",
-      "1000000944",
-      "1000001247"
+      "1000002181"
     ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11257-j9iy8oj4-v2/imageContent-11257-j9iy8oj4-m2.png",
-    "channel_genre": "Regional Kannada"
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-47224-k1uh5c4g-v2/imageContent-47224-k1uh5c4g-m2.png",
+    "channel_genre": "Regional Gujarati"
   },
   {
     "channel_id": "107",
@@ -12769,20 +12797,6 @@
     "channel_genre": "Regional Gujarati"
   },
   {
-    "channel_id": "772",
-    "channel_name": "Tata Play Gujarati Cinema",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000853",
-    "channel_url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_967/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000000002",
-      "1000001534",
-      "1000000001",
-      "1000002181"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-47224-k1uh5c4g-v2/imageContent-47224-k1uh5c4g-m2.png",
-    "channel_genre": "Regional Gujarati"
-  },
-  {
     "channel_id": "552",
     "channel_name": "Gujarat Samachar TV",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000583",
@@ -12795,6 +12809,21 @@
       "1000001368"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12068-j9o9t9jc-v1/imageContent-12068-j9o9t9jc-m1.png",
+    "channel_genre": "Regional Gujarati"
+  },
+  {
+    "channel_id": "489",
+    "channel_name": "TV9 Gujarati",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000515",
+    "channel_url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_803/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000000001",
+      "1000001247",
+      "1000001523",
+      "1000001035",
+      "1000000247"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11874-j9l376yg-v2/imageContent-11874-j9l376yg-m2.png",
     "channel_genre": "Regional Gujarati"
   },
   {
@@ -12813,18 +12842,22 @@
     "channel_genre": "Regional Gujarati"
   },
   {
-    "channel_id": "489",
-    "channel_name": "TV9 Gujarati",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000515",
-    "channel_url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_803/output/manifest.mpd",
+    "channel_id": "303",
+    "channel_name": "CNBC Bajaar",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000317",
+    "channel_url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_487/output/manifest.mpd",
     "channel_entitlements": [
-      "1000000001",
-      "1000001247",
-      "1000001523",
+      "1000001493",
       "1000001035",
-      "1000000247"
+      "1000001106",
+      "1000000315",
+      "1000001494",
+      "1000000821",
+      "1000001523",
+      "1000001300",
+      "1000000001"
     ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11874-j9l376yg-v2/imageContent-11874-j9l376yg-m2.png",
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11281-j9j4lf3k-v1/imageContent-11281-j9j4lf3k-m1.png",
     "channel_genre": "Regional Gujarati"
   },
   {
@@ -12850,25 +12883,6 @@
       "1000001100"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-15-j5f97j2o-v4/imageContent-15-j5f97j2o-m3.png",
-    "channel_genre": "Regional Gujarati"
-  },
-  {
-    "channel_id": "303",
-    "channel_name": "CNBC Bajaar",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000317",
-    "channel_url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_487/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000001493",
-      "1000001035",
-      "1000001106",
-      "1000000315",
-      "1000001494",
-      "1000000821",
-      "1000001523",
-      "1000001300",
-      "1000000001"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11281-j9j4lf3k-v1/imageContent-11281-j9j4lf3k-m1.png",
     "channel_genre": "Regional Gujarati"
   },
   {
@@ -12972,20 +12986,6 @@
     "channel_genre": "Regional Gujarati"
   },
   {
-    "channel_id": "1087",
-    "channel_name": "PRAVEG",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001253",
-    "channel_url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_1899/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000000002",
-      "1000000001",
-      "1000002340",
-      "1000001368"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/PRVEG_Thumbnail-v3/PRVEG_Thumbnail.png",
-    "channel_genre": "News"
-  },
-  {
     "channel_id": "323",
     "channel_name": "DD Girnar",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000341",
@@ -13001,6 +13001,20 @@
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11341-j9jpdu00-v1/imageContent-11341-j9jpdu00-m1.png",
     "channel_genre": "Regional Gujarati"
+  },
+  {
+    "channel_id": "1087",
+    "channel_name": "PRAVEG",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001253",
+    "channel_url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_1899/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000000002",
+      "1000000001",
+      "1000002340",
+      "1000001368"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/PRVEG_Thumbnail-v3/PRVEG_Thumbnail.png",
+    "channel_genre": "News"
   },
   {
     "channel_id": "1097",
@@ -13078,6 +13092,21 @@
     "channel_genre": "Regional Odia"
   },
   {
+    "channel_id": "376",
+    "channel_name": "Kanak News",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000396",
+    "channel_url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_592/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000001035",
+      "1000000313",
+      "1000001368",
+      "1000001523",
+      "1000000001"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12271-j9to48zc-v1/imageContent-12271-j9to48zc-m2.png",
+    "channel_genre": "Regional Odia"
+  },
+  {
     "channel_id": "421",
     "channel_name": "Peppers TV",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000445",
@@ -13092,21 +13121,6 @@
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11667-j9kdkb6w-v1/imageContent-11667-j9kdkb6w-m1.png",
     "channel_genre": "Regional Tamil"
-  },
-  {
-    "channel_id": "376",
-    "channel_name": "Kanak News",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000396",
-    "channel_url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_592/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000001035",
-      "1000000313",
-      "1000001368",
-      "1000001523",
-      "1000000001"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12271-j9to48zc-v1/imageContent-12271-j9to48zc-m2.png",
-    "channel_genre": "Regional Odia"
   },
   {
     "channel_id": "375",
@@ -13162,6 +13176,20 @@
     "channel_genre": "Regional Odia"
   },
   {
+    "channel_id": "907",
+    "channel_name": "Argus News",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001058",
+    "channel_url": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1314/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000000001",
+      "1000001865",
+      "1000000002",
+      "1000001368"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62573-kop7duow-v6/imageContent-62573-kop7duow-m9.png",
+    "channel_genre": "Regional Odia"
+  },
+  {
     "channel_id": "805",
     "channel_name": "Nandighosha TV",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000893",
@@ -13174,20 +13202,6 @@
       "1000000002"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49597-k6k8ts8g-v2/imageContent-49597-k6k8ts8g-m2.png",
-    "channel_genre": "Regional Odia"
-  },
-  {
-    "channel_id": "907",
-    "channel_name": "Argus News",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001058",
-    "channel_url": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_1314/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000000001",
-      "1000001865",
-      "1000000002",
-      "1000001368"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62573-kop7duow-v6/imageContent-62573-kop7duow-m9.png",
     "channel_genre": "Regional Odia"
   },
   {
@@ -13538,33 +13552,6 @@
     "channel_genre": "Regional Malayalam"
   },
   {
-    "channel_id": "229",
-    "channel_name": "Surya Movies",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000245",
-    "channel_url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_243/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000001068",
-      "1000001215",
-      "1000000001",
-      "1000001061",
-      "1000000151",
-      "1000001392",
-      "1000001423",
-      "1000001066",
-      "1000001224",
-      "1000001553",
-      "1000001218",
-      "1000001060",
-      "1000001523",
-      "1000000009",
-      "1000000783",
-      "1000001429",
-      "1000001426"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1008-j5nfqjeo-v1/imageContent-1008-j5nfqjeo-m1.png",
-    "channel_genre": "Regional Malayalam"
-  },
-  {
     "channel_id": "293",
     "channel_name": "Asianet Movies",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000307",
@@ -13595,6 +13582,33 @@
       "1000001148"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11251-j9ixmaz4-v1/imageContent-11251-j9ixmaz4-m1.png",
+    "channel_genre": "Regional Malayalam"
+  },
+  {
+    "channel_id": "229",
+    "channel_name": "Surya Movies",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000245",
+    "channel_url": "https://bpprod4linear.akamaized.net/bpk-tv/irdeto_com_Channel_243/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000001068",
+      "1000001215",
+      "1000000001",
+      "1000001061",
+      "1000000151",
+      "1000001392",
+      "1000001423",
+      "1000001066",
+      "1000001224",
+      "1000001553",
+      "1000001218",
+      "1000001060",
+      "1000001523",
+      "1000000009",
+      "1000000783",
+      "1000001429",
+      "1000001426"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1008-j5nfqjeo-v1/imageContent-1008-j5nfqjeo-m1.png",
     "channel_genre": "Regional Malayalam"
   },
   {
@@ -13678,21 +13692,6 @@
     "channel_genre": "Regional Malayalam"
   },
   {
-    "channel_id": "87",
-    "channel_name": "Manorama News",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000087",
-    "channel_url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_244/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000001368",
-      "1000001523",
-      "1000001035",
-      "1000000001",
-      "1000000259"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-279-j5jcwqts-v1/imageContent-279-j5jcwqts-m2.png",
-    "channel_genre": "Regional Malayalam"
-  },
-  {
     "channel_id": "394",
     "channel_name": "Mathrubhumi News",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000414",
@@ -13751,19 +13750,18 @@
     "channel_genre": "Regional Malayalam"
   },
   {
-    "channel_id": "370",
-    "channel_name": "Jaihind TV",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000390",
-    "channel_url": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_581/output/manifest.mpd",
+    "channel_id": "87",
+    "channel_name": "Manorama News",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000087",
+    "channel_url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_244/output/manifest.mpd",
     "channel_entitlements": [
+      "1000001368",
       "1000001523",
-      "1000000001",
-      "1000001382",
-      "1000001247",
       "1000001035",
-      "1000000261"
+      "1000000001",
+      "1000000259"
     ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11495-j9jtg2ns-v2/imageContent-11495-j9jtg2ns-m2.png",
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-279-j5jcwqts-v1/imageContent-279-j5jcwqts-m2.png",
     "channel_genre": "Regional Malayalam"
   },
   {
@@ -13780,6 +13778,22 @@
       "1000001382"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12137-j9p7pmeo-v2/imageContent-12137-j9p7pmeo-m2.png",
+    "channel_genre": "Regional Malayalam"
+  },
+  {
+    "channel_id": "370",
+    "channel_name": "Jaihind TV",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000390",
+    "channel_url": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_581/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000001523",
+      "1000000001",
+      "1000001382",
+      "1000001247",
+      "1000001035",
+      "1000000261"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11495-j9jtg2ns-v2/imageContent-11495-j9jtg2ns-m2.png",
     "channel_genre": "Regional Malayalam"
   },
   {
@@ -13831,21 +13845,6 @@
     "channel_genre": "Regional Malayalam"
   },
   {
-    "channel_id": "799",
-    "channel_name": "Twenty Four",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000885",
-    "channel_url": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_990/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000000002",
-      "1000001523",
-      "1000000001",
-      "1000001368",
-      "1000001628"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49022-k5lxarmw-v2/imageContent-49022-k5lxarmw-m2.png",
-    "channel_genre": "Regional Malayalam"
-  },
-  {
     "channel_id": "1124",
     "channel_name": "Reporter TV",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001283",
@@ -13872,6 +13871,21 @@
       "1000001382"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11688-j9kiz1zs-v1/imageContent-11688-j9kiz1zs-m1.png",
+    "channel_genre": "Regional Malayalam"
+  },
+  {
+    "channel_id": "799",
+    "channel_name": "Twenty Four",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000885",
+    "channel_url": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_990/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000000002",
+      "1000001523",
+      "1000000001",
+      "1000001368",
+      "1000001628"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-49022-k5lxarmw-v2/imageContent-49022-k5lxarmw-m2.png",
     "channel_genre": "Regional Malayalam"
   },
   {
@@ -14075,22 +14089,6 @@
     "channel_genre": "Regional Punjabi"
   },
   {
-    "channel_id": "91",
-    "channel_name": "PTC News",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000094",
-    "channel_url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_246/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000000001",
-      "1000000233",
-      "1000001247",
-      "1000001035",
-      "1000001523",
-      "1000001383"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-300-j5ji8seo-v1/imageContent-300-j5ji8seo-m1.png",
-    "channel_genre": "Regional Punjabi"
-  },
-  {
     "channel_id": "580",
     "channel_name": "Zee Punjab Haryana Himachal Pradesh",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000609",
@@ -14119,6 +14117,22 @@
       "1000001564"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12155-j9pd5ug8-v1/imageContent-12155-j9pd5ug8-m1.png",
+    "channel_genre": "Regional Punjabi"
+  },
+  {
+    "channel_id": "91",
+    "channel_name": "PTC News",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000094",
+    "channel_url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_246/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000000001",
+      "1000000233",
+      "1000001247",
+      "1000001035",
+      "1000001523",
+      "1000001383"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-300-j5ji8seo-v1/imageContent-300-j5ji8seo-m1.png",
     "channel_genre": "Regional Punjabi"
   },
   {
@@ -14191,21 +14205,6 @@
     "channel_genre": "News"
   },
   {
-    "channel_id": "371",
-    "channel_name": "Janta TV",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000391",
-    "channel_url": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_585/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000001523",
-      "1000000001",
-      "1000001368",
-      "1000000598",
-      "1000000002"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11502-j9jtlmi8-v3/imageContent-11502-j9jtlmi8-m4.png",
-    "channel_genre": "News"
-  },
-  {
     "channel_id": "401",
     "channel_name": "MH One News",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000419",
@@ -14222,6 +14221,21 @@
     "channel_genre": "News"
   },
   {
+    "channel_id": "371",
+    "channel_name": "Janta TV",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000391",
+    "channel_url": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_585/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000001523",
+      "1000000001",
+      "1000001368",
+      "1000000598",
+      "1000000002"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11502-j9jtlmi8-v3/imageContent-11502-j9jtlmi8-m4.png",
+    "channel_genre": "News"
+  },
+  {
     "channel_id": "787",
     "channel_name": "ANB NEWS",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000871",
@@ -14234,21 +14248,6 @@
       "1000001523"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48498-k3zd4bsg-v1/imageContent-48498-k3zd4bsg-m3.png",
-    "channel_genre": "Regional Punjabi"
-  },
-  {
-    "channel_id": "793",
-    "channel_name": "Living India News",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000996",
-    "channel_url": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_984/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000001523",
-      "1000000001",
-      "1000001368",
-      "1000001619",
-      "1000000002"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57445-kg7p5yk8-v2/imageContent-57445-kg7p5yk8-m3.png",
     "channel_genre": "Regional Punjabi"
   },
   {
@@ -14287,18 +14286,19 @@
     "channel_genre": "Regional Odia"
   },
   {
-    "channel_id": "989",
-    "channel_name": "STV Haryana News",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001151",
-    "channel_url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1817/output/manifest.mpd",
+    "channel_id": "793",
+    "channel_name": "Living India News",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000996",
+    "channel_url": "https://bpprod1linear.akamaized.net/bpk-tv/irdeto_com_Channel_984/output/manifest.mpd",
     "channel_entitlements": [
-      "1000000002",
-      "1000002143",
+      "1000001523",
       "1000000001",
-      "1000001368"
+      "1000001368",
+      "1000001619",
+      "1000000002"
     ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71064-l427mi60-v2/imageContent-71064-l427mi60-m3.png",
-    "channel_genre": null
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-57445-kg7p5yk8-v2/imageContent-57445-kg7p5yk8-m3.png",
+    "channel_genre": "Regional Punjabi"
   },
   {
     "channel_id": "1078",
@@ -14311,6 +14311,20 @@
       "1000000001"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/DAILYP_Thumbnail-v3/DAILYP_Thumbnail.png",
+    "channel_genre": null
+  },
+  {
+    "channel_id": "989",
+    "channel_name": "STV Haryana News",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001151",
+    "channel_url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1817/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000000002",
+      "1000002143",
+      "1000000001",
+      "1000001368"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71064-l427mi60-v2/imageContent-71064-l427mi60-m3.png",
     "channel_genre": null
   },
   {
@@ -14405,6 +14419,20 @@
     "channel_genre": "Regional Punjabi"
   },
   {
+    "channel_id": "567",
+    "channel_name": "Nepal 1",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000597",
+    "channel_url": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_657/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000001035",
+      "1000000228",
+      "1000001247",
+      "1000000001"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12106-j9ooxpug-v2/imageContent-12106-j9ooxpug-m2.png",
+    "channel_genre": "Regional Others"
+  },
+  {
     "channel_id": "773",
     "channel_name": "PTC Simran",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000855",
@@ -14418,20 +14446,6 @@
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-47242-k1vmve74-v1/imageContent-47242-k1vmve74-m2.png",
     "channel_genre": "Regional Punjabi"
-  },
-  {
-    "channel_id": "567",
-    "channel_name": "Nepal 1",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000597",
-    "channel_url": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_657/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000001035",
-      "1000000228",
-      "1000001247",
-      "1000000001"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12106-j9ooxpug-v2/imageContent-12106-j9ooxpug-m2.png",
-    "channel_genre": "Regional Others"
   },
   {
     "channel_id": "101",
@@ -14556,18 +14570,18 @@
     "channel_genre": "Regional Others"
   },
   {
-    "channel_id": "423",
-    "channel_name": "Prag News",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000447",
-    "channel_url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_675/output/manifest.mpd",
+    "channel_id": "894",
+    "channel_name": "NKTV PLUS",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001043",
+    "channel_url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1303/output/manifest.mpd",
     "channel_entitlements": [
-      "1000000077",
-      "1000001035",
+      "1000000002",
+      "1000001838",
       "1000000001",
       "1000001368",
-      "1000000337"
+      "1000000934"
     ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11673-j9kfe73s-v1/imageContent-11673-j9kfe73s-m1.png",
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/NKTVPLUS_Thumbnail-v2/NKTVPLUS_Thumbnail.png",
     "channel_genre": "Regional Others"
   },
   {
@@ -14583,21 +14597,6 @@
       "1000001038"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11644-j9k1gjow-v1/imageContent-11644-j9k1gjow-m1.png",
-    "channel_genre": "Regional Others"
-  },
-  {
-    "channel_id": "894",
-    "channel_name": "NKTV PLUS",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001043",
-    "channel_url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1303/output/manifest.mpd",
-    "channel_entitlements": [
-      "1000000002",
-      "1000001838",
-      "1000000001",
-      "1000001368",
-      "1000000934"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/NKTVPLUS_Thumbnail-v2/NKTVPLUS_Thumbnail.png",
     "channel_genre": "Regional Others"
   },
   {
@@ -14659,18 +14658,18 @@
     "channel_genre": "Regional Others"
   },
   {
-    "channel_id": "449",
-    "channel_name": "Ramdhenu",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000466",
-    "channel_url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_692/output/manifest.mpd",
+    "channel_id": "423",
+    "channel_name": "Prag News",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000447",
+    "channel_url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_675/output/manifest.mpd",
     "channel_entitlements": [
-      "1000000001",
-      "1000000276",
-      "1000001368",
+      "1000000077",
       "1000001035",
-      "1000001038"
+      "1000000001",
+      "1000001368",
+      "1000000337"
     ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11728-j9kw1zp4-v1/imageContent-11728-j9kw1zp4-m1.png",
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11673-j9kfe73s-v1/imageContent-11673-j9kfe73s-m1.png",
     "channel_genre": "Regional Others"
   },
   {
@@ -14690,16 +14689,31 @@
     "channel_genre": "Regional Others"
   },
   {
+    "channel_id": "449",
+    "channel_name": "Ramdhenu",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000466",
+    "channel_url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_692/output/manifest.mpd",
+    "channel_entitlements": [
+      "1000000001",
+      "1000000276",
+      "1000001368",
+      "1000001035",
+      "1000001038"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11728-j9kw1zp4-v1/imageContent-11728-j9kw1zp4-m1.png",
+    "channel_genre": "Regional Others"
+  },
+  {
     "channel_id": "991",
     "channel_name": "DD Meghalaya",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001153",
     "channel_url": "https://bpprod7linear.akamaized.net/bpk-tv/irdeto_com_Channel_1819/output/manifest.mpd",
     "channel_entitlements": [
-      "1000001038",
-      "1000001274",
+      "1000001035",
       "1000000001",
+      "1000001274",
       "1000002145",
-      "1000001035"
+      "1000001038"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-71497-l4stx05k-v3/imageContent-71497-l4stx05k-m5.png",
     "channel_genre": null
@@ -14733,20 +14747,6 @@
     "channel_genre": "Regional Punjabi"
   },
   {
-    "channel_id": "791",
-    "channel_name": "Fateh TV",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000878",
-    "channel_url": "https://delta45tatasky.akamaized.net/out/i/1147.mpd",
-    "channel_entitlements": [
-      "1000001274",
-      "1000001035",
-      "1000000001",
-      "1000001038"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48804-k4m7nz2w-v1/imageContent-48804-k4m7nz2w-m1.png",
-    "channel_genre": "Regional Punjabi"
-  },
-  {
     "channel_id": "912",
     "channel_name": "Haryana Beats",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001063",
@@ -14759,6 +14759,20 @@
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62613-koxw351c-v1/imageContent-62613-koxw351c-m1.png",
     "channel_genre": "Music"
+  },
+  {
+    "channel_id": "791",
+    "channel_name": "Fateh TV",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000878",
+    "channel_url": "https://delta45tatasky.akamaized.net/out/i/1147.mpd",
+    "channel_entitlements": [
+      "1000001274",
+      "1000001035",
+      "1000000001",
+      "1000001038"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-48804-k4m7nz2w-v1/imageContent-48804-k4m7nz2w-m1.png",
+    "channel_genre": "Regional Punjabi"
   },
   {
     "channel_id": "807",
@@ -14803,6 +14817,20 @@
     "channel_genre": "Regional Marathi"
   },
   {
+    "channel_id": "819",
+    "channel_name": "RDX Goa",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000919",
+    "channel_url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/manifest_dvr.mpd",
+    "channel_entitlements": [
+      "1000001038",
+      "1000001035",
+      "1000001274",
+      "1000000001"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-53443-kanbrwjs-v1/imageContent-53443-kanbrwjs-m1.png",
+    "channel_genre": "Regional Marathi"
+  },
+  {
     "channel_id": "845",
     "channel_name": "Wah Punjabi",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000981",
@@ -14829,20 +14857,6 @@
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56399-kfesi49c-v1/imageContent-56399-kfesi49c-m1.png",
     "channel_genre": "Regional Punjabi"
-  },
-  {
-    "channel_id": "819",
-    "channel_name": "RDX Goa",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000919",
-    "channel_url": "https://g5nl6xoalpq6-hls-live.5centscdn.com/rdxgoa/d0dbe915091d400bd8ee7f27f0791303.sdp/manifest_dvr.mpd",
-    "channel_entitlements": [
-      "1000001038",
-      "1000001035",
-      "1000001274",
-      "1000000001"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-53443-kanbrwjs-v1/imageContent-53443-kanbrwjs-m1.png",
-    "channel_genre": "Regional Marathi"
   },
   {
     "channel_id": "847",
@@ -14943,20 +14957,6 @@
     "channel_genre": "Spiritual"
   },
   {
-    "channel_id": "910",
-    "channel_name": "C News Bharat",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001061",
-    "channel_url": "https://cable18tataplay.akamaized.net/cnews/cnews/index.m3u8",
-    "channel_entitlements": [
-      "1000001274",
-      "1000001038",
-      "1000001035",
-      "1000000001"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62607-koxuikrs-v1/imageContent-62607-koxuikrs-m1.png",
-    "channel_genre": "News"
-  },
-  {
     "channel_id": "841",
     "channel_name": "Mahakaleshwar Temple, Ujjain",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000974",
@@ -14969,6 +14969,20 @@
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/MAHAK_Thumbnail-v3/MAHAK_Thumbnail.png",
     "channel_genre": "Spiritual"
+  },
+  {
+    "channel_id": "910",
+    "channel_name": "C News Bharat",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001061",
+    "channel_url": "https://cable18tataplay.akamaized.net/cnews/cnews/index.m3u8",
+    "channel_entitlements": [
+      "1000001274",
+      "1000001038",
+      "1000001035",
+      "1000000001"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-62607-koxuikrs-v1/imageContent-62607-koxuikrs-m1.png",
+    "channel_genre": "News"
   },
   {
     "channel_id": "931",
@@ -14999,20 +15013,6 @@
     "channel_genre": "News"
   },
   {
-    "channel_id": "949",
-    "channel_name": "Live Sri Naga Sai Mandir Coimbatore",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001100",
-    "channel_url": "https://delta45tatasky.akamaized.net/out/i/1347.mpd",
-    "channel_entitlements": [
-      "1000001038",
-      "1000001035",
-      "1000001274",
-      "1000000001"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-65985-ku6gly6w-v3/imageContent-65985-ku6gly6w-m3.png",
-    "channel_genre": "Spiritual"
-  },
-  {
     "channel_id": "947",
     "channel_name": "Live Patna Sahib Patna",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001098",
@@ -15024,6 +15024,20 @@
       "1000001038"
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-65977-ku6g2hko-v3/imageContent-65977-ku6g2hko-m3.png",
+    "channel_genre": "Spiritual"
+  },
+  {
+    "channel_id": "949",
+    "channel_name": "Live Sri Naga Sai Mandir Coimbatore",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001100",
+    "channel_url": "https://delta45tatasky.akamaized.net/out/i/1347.mpd",
+    "channel_entitlements": [
+      "1000001038",
+      "1000001035",
+      "1000001274",
+      "1000000001"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-65985-ku6gly6w-v3/imageContent-65985-ku6gly6w-m3.png",
     "channel_genre": "Spiritual"
   },
   {
@@ -15153,20 +15167,6 @@
     "channel_genre": null
   },
   {
-    "channel_id": "1018",
-    "channel_name": "Real News Kerala",
-    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001182",
-    "channel_url": " https://cable10tataplay.akamaized.net/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/manifest.mpd",
-    "channel_entitlements": [
-      "1000001035",
-      "1000000001",
-      "1000001038",
-      "1000001274"
-    ],
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-73022-l8gzppv4-v1/imageContent-73022-l8gzppv4-m1.png",
-    "channel_genre": null
-  },
-  {
     "channel_id": "1023",
     "channel_name": "Daiji World TV",
     "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001184",
@@ -15179,6 +15179,20 @@
     ],
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-73014-l8gzok74-v2/imageContent-73014-l8gzok74-m4.png",
     "channel_genre": "Knowledge"
+  },
+  {
+    "channel_id": "1018",
+    "channel_name": "Real News Kerala",
+    "channel_license_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001182",
+    "channel_url": " https://cable10tataplay.akamaized.net/realnews/e7dee419f91aa9e65939d3677fb9c4f5.sdp/manifest.mpd",
+    "channel_entitlements": [
+      "1000001035",
+      "1000000001",
+      "1000001038",
+      "1000001274"
+    ],
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-73022-l8gzppv4-v1/imageContent-73022-l8gzppv4-m1.png",
+    "channel_genre": null
   },
   {
     "channel_id": "1019",
