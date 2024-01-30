@@ -36,6 +36,18 @@
     "channel_hd": false
   },
   {
+    "channel_id": "187",
+    "channel_name": "Colors Infinity HD",
+    "channel_catchup": false,
+    "channel_lic_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000201",
+    "channel_url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_304/output/manifest.mpd",
+    "channel_ent": "1000000362",
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1577-j5xrm7fc-v1/imageContent-1577-j5xrm7fc-m1.png",
+    "channel_lang": "English",
+    "channel_genre": "Entertainment",
+    "channel_hd": true
+  },
+  {
     "channel_id": "80",
     "channel_name": "SONY MAX HD",
     "channel_catchup": false,
@@ -46,6 +58,18 @@
     "channel_lang": "Hindi",
     "channel_genre": "Movies",
     "channel_hd": true
+  },
+  {
+    "channel_id": "148",
+    "channel_name": "&pictures",
+    "channel_catchup": false,
+    "channel_lic_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000162",
+    "channel_url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_203/output/manifest.mpd",
+    "channel_ent": "1000000033",
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-499-j5jydp7s-v1/imageContent-499-j5jydp7s-m1.png",
+    "channel_lang": "Hindi",
+    "channel_genre": "Movies",
+    "channel_hd": false
   },
   {
     "channel_id": "120",
@@ -60,18 +84,6 @@
     "channel_hd": false
   },
   {
-    "channel_id": "187",
-    "channel_name": "Colors Infinity HD",
-    "channel_catchup": false,
-    "channel_lic_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000201",
-    "channel_url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_304/output/manifest.mpd",
-    "channel_ent": "1000000362",
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1577-j5xrm7fc-v1/imageContent-1577-j5xrm7fc-m1.png",
-    "channel_lang": "English",
-    "channel_genre": "Entertainment",
-    "channel_hd": true
-  },
-  {
     "channel_id": "173",
     "channel_name": "Movies Now",
     "channel_catchup": false,
@@ -80,18 +92,6 @@
     "channel_ent": "1000002384",
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-748-j5l5fnts-v1/imageContent-748-j5l5fnts-m1.png",
     "channel_lang": "English",
-    "channel_genre": "Movies",
-    "channel_hd": false
-  },
-  {
-    "channel_id": "148",
-    "channel_name": "&pictures",
-    "channel_catchup": false,
-    "channel_lic_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000162",
-    "channel_url": "https://bpprod5linear.akamaized.net/bpk-tv/irdeto_com_Channel_203/output/manifest.mpd",
-    "channel_ent": "1000000033",
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-499-j5jydp7s-v1/imageContent-499-j5jydp7s-m1.png",
-    "channel_lang": "Hindi",
     "channel_genre": "Movies",
     "channel_hd": false
   },
@@ -264,18 +264,6 @@
     "channel_hd": false
   },
   {
-    "channel_id": "224",
-    "channel_name": "E24",
-    "channel_catchup": false,
-    "channel_lic_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000237",
-    "channel_url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_278/output/manifest.mpd",
-    "channel_ent": "1000000214",
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-946-j5mip6a0-v1/imageContent-946-j5mip6a0-m1.png",
-    "channel_lang": "Hindi",
-    "channel_genre": "Music",
-    "channel_hd": false
-  },
-  {
     "channel_id": "43",
     "channel_name": "Sanskar",
     "channel_catchup": true,
@@ -321,6 +309,18 @@
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-23223-jeyhnzfs-v1/imageContent-23223-jeyhnzfs-m1.png",
     "channel_lang": "Hindi",
     "channel_genre": "Regional Hindi",
+    "channel_hd": false
+  },
+  {
+    "channel_id": "224",
+    "channel_name": "E24",
+    "channel_catchup": false,
+    "channel_lic_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000237",
+    "channel_url": "https://bpprod6linear.akamaized.net/bpk-tv/irdeto_com_Channel_278/output/manifest.mpd",
+    "channel_ent": "1000000214",
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-946-j5mip6a0-v1/imageContent-946-j5mip6a0-m1.png",
+    "channel_lang": "Hindi",
+    "channel_genre": "Music",
     "channel_hd": false
   },
   {
@@ -636,18 +636,6 @@
     "channel_hd": false
   },
   {
-    "channel_id": "933",
-    "channel_name": "Asianet Movies",
-    "channel_catchup": false,
-    "channel_lic_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001085",
-    "channel_url": "https://delta31tatasky.akamaized.net/out/i/29273.mpd",
-    "channel_ent": "1000000255",
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-64891-ks8v01o8-v1/imageContent-64891-ks8v01o8-m2.png",
-    "channel_lang": "Malayalam",
-    "channel_genre": "Regional Malayalam",
-    "channel_hd": false
-  },
-  {
     "channel_id": "378",
     "channel_name": "Kaumudy TV",
     "channel_catchup": true,
@@ -655,6 +643,18 @@
     "channel_url": "https://bpprod2linear.akamaized.net/bpk-tv/irdeto_com_Channel_595/output/manifest.mpd",
     "channel_ent": "1000000474",
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11524-j9jtu07c-v2/imageContent-11524-j9jtu07c-m2.png",
+    "channel_lang": "Malayalam",
+    "channel_genre": "Regional Malayalam",
+    "channel_hd": false
+  },
+  {
+    "channel_id": "933",
+    "channel_name": "Asianet Movies",
+    "channel_catchup": false,
+    "channel_lic_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001085",
+    "channel_url": "https://delta31tatasky.akamaized.net/out/i/29273.mpd",
+    "channel_ent": "1000000255",
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-64891-ks8v01o8-v1/imageContent-64891-ks8v01o8-m2.png",
     "channel_lang": "Malayalam",
     "channel_genre": "Regional Malayalam",
     "channel_hd": false
@@ -744,18 +744,6 @@
     "channel_hd": false
   },
   {
-    "channel_id": "892",
-    "channel_name": "Samara News",
-    "channel_catchup": false,
-    "channel_lic_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001040",
-    "channel_url": "https://delta45tatasky.akamaized.net/out/i/767.mpd",
-    "channel_ent": "1000001274",
-    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-61629-kmlgw3yw-v2/imageContent-61629-kmlgw3yw-m5.png",
-    "channel_lang": "Kannada",
-    "channel_genre": "News",
-    "channel_hd": false
-  },
-  {
     "channel_id": "1006",
     "channel_name": "Shri Mahalaxmi Temple,\u00a0Mumbai",
     "channel_catchup": false,
@@ -765,6 +753,18 @@
     "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-72312-l6hsvue8-v1/imageContent-72312-l6hsvue8-m2.png",
     "channel_lang": "Hindi",
     "channel_genre": null,
+    "channel_hd": false
+  },
+  {
+    "channel_id": "892",
+    "channel_name": "Samara News",
+    "channel_catchup": false,
+    "channel_lic_url": "https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400001040",
+    "channel_url": "https://delta45tatasky.akamaized.net/out/i/767.mpd",
+    "channel_ent": "1000001274",
+    "channel_logo": "https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-61629-kmlgw3yw-v2/imageContent-61629-kmlgw3yw-m5.png",
+    "channel_lang": "Kannada",
+    "channel_genre": "News",
     "channel_hd": false
   },
   {
