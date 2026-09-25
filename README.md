@@ -1,132 +1,370 @@
-<p align="center"><img src="https://play-lh.googleusercontent.com/k9OXcYUYd2Id7jSLB_Yf2EdgeeU9gdD5wS_0fe8Ze7jSPi5YI6St7ROKkS0QPM4jcg" width="60" height="60"></p>
+<p align="center">
+  <img src="https://play-lh.googleusercontent.com/k9OXcYUYd2Id7jSLB_Yf2EdgeeU9gdD5wS_0fe8Ze7jSPi5YI6St7ROKkS0QPM4jcg" width="90" height="90" alt="OTT EPG Guide Logo">
+</p>
 
-<h2 align='center'>✯ 𝗢𝗧𝗧 𝗘𝗣𝗚 𝗚𝗨𝗜𝗗𝗘 𝗪𝗜𝗧𝗛 𝗖𝗔𝗧𝗖𝗛𝗨𝗣 ✯</h2>
+<h1 align="center">📺 OTT EPG Guide with Catch-Up</h1>
 
-<!-- DO NOT EDIT FILE AND ADD YOU NAME HERE AND PUBLISH -->
-<!-- © 2021-23 TechieSneh -->
+<p align="center">
+  <b>Electronic Program Guide (EPG) resources for OTT & IPTV playlists</b><br>
+  JioTV • Tata Play • ZEE5 • Sun NXT • SonyLIV
+</p>
 
-<h4 align='center'>𝐅𝐨𝐫 𝐆𝐫𝐚𝐛 𝐒𝐭𝐫𝐞𝐚𝐦𝐢𝐧𝐠 𝐂𝐡𝐚𝐧𝐧𝐞𝐥𝐬 𝐏𝐫𝐨𝐠𝐫𝐚𝐦 𝐆𝐮𝐢𝐝𝐞<br>𝐘𝐨𝐮 𝐜𝐚𝐧 𝐮𝐬𝐞 𝐭𝐡𝐢𝐬 𝐢𝐧 𝐲𝐨𝐮𝐫 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭<br>𝐓𝐡𝐫𝐨𝐮𝐠𝐡 𝐓𝐢𝐯𝐢𝐦𝐚𝐭𝐞 𝐨𝐫 𝐎𝐓𝐓 𝐍𝐚𝐯𝐢𝐠𝐚𝐭𝐨𝐫 𝐀𝐩𝐩.<br><br></h4>
-<br>
+<p align="center">
+  <img src="https://img.shields.io/badge/EPG-XMLTV-blue?style=for-the-badge" alt="EPG">
+  <img src="https://img.shields.io/badge/Catch--Up-Supported-success?style=for-the-badge" alt="Catch-Up">
+  <img src="https://img.shields.io/badge/Playlist-M3U-orange?style=for-the-badge" alt="M3U">
+</p>
 
-<h2>💖 NEW FEATURES :</h2>
+<p align="center">
+  Compatible with applications such as <b>TiviMate</b>, <b>OTT Navigator</b> and other IPTV/OTT players supporting XMLTV EPG.
+</p>
 
-- 🕊️ `𝗗𝗜𝗙𝗙𝗘𝗥𝗘𝗡𝗧 𝗢𝗧𝗧 𝗘𝗣𝗚 𝗚𝗨𝗜𝗗𝗘 𝗔𝗗𝗗𝗘𝗗` 🕊️ <br>
+---
 
-```py
-1. ✅ 𝐉𝐈𝐎𝐓𝐕 2 𝐃𝐀𝐘𝐒 𝐄𝐏𝐆 𝐖𝐈𝐓𝐇 𝐂𝐀𝐓𝐂𝐇𝐔𝐏 𝐀𝐃𝐃𝐄𝐃
-2. ✅ 𝐓𝐀𝐓𝐀𝐏𝐋𝐀𝐘 2 𝐃𝐀𝐘𝐒 𝐖𝐈𝐓𝐇 𝐂𝐀𝐓𝐂𝐇𝐔𝐏 𝐀𝐃𝐃𝐄𝐃
-3. ✅ 𝐙𝐄𝐄𝟓 & 𝐒𝐔𝐍𝐍𝐗𝐓 𝐄𝐏𝐆 𝐔𝐏𝐃𝐀𝐓𝐄𝐃
-4. ✅ 𝐒𝐎𝐍𝐘𝐋𝐈𝐕 𝐄𝐏𝐆 𝐀𝐃𝐃𝐄𝐃 𝐍𝐎𝐖
-```
+## 📖 About
 
-<h2>🍃 ALL EPG LINKS :</h2>
+**OTT EPG Guide with Catch-Up** provides XMLTV-compatible Electronic Program Guide data that can be linked to your IPTV/OTT playlists.
 
-📑 𝗡𝗢𝗧𝗘 : 𝗝𝘂𝘀𝘁 𝗔𝗱𝗱 𝗕𝗲𝗹𝗼𝘄 𝗘𝗣𝗚 𝗜𝗻 𝗬𝗼𝘂𝗿 𝗣𝗹𝗮𝘆𝗹𝗶𝘀𝘁.
+The EPG data can be used to display:
 
-💞 `[ 1. TS AIO OTT EPG GUIDE ]`<br>
+- 📺 Current and upcoming programs
+- 🕐 Program schedules
+- 🔄 Catch-up / replay information where supported
+- 🏷️ Channel logos and metadata
+- 📅 Multi-day programming information
+- 🎬 Program descriptions and related metadata
 
-```py
+Simply add the appropriate EPG URL to your playlist and match your channels using the correct `tvg-id`.
+
+---
+
+## ✨ Supported EPG Sources
+
+| Platform     | EPG | Catch-Up | ID Format        |
+| ------------ | :-: | :------: | ---------------- |
+| 📡 JioTV     | ✅  |    ✅    | `144`            |
+| 📡 Tata Play | ✅  |    ✅    | `ts840`          |
+| 🎬 ZEE5      | ✅  |    —     | `0-9-zeetv`      |
+| ☀️ Sun NXT   | ✅  |    —     | `sun9025`        |
+| 🎥 SonyLIV   | ✅  |    —     | `sony1000009246` |
+
+> **Note:** Catch-up availability depends on the source, channel and player implementation.
+
+---
+
+# 🔗 EPG LINKS
+
+> **Tip:** Add one of the following URLs to your playlist using the `x-tvg-url` attribute.
+
+### 1. 🌐 TS AIO OTT EPG
+
+```text
 https://avkb.short.gy/epg.xml.gz
 ```
 
-💞 `[ 2. JIOTV 2 DAYS EPG GUIDE WITH CATCHUP ]`<br>
+Includes EPG data for supported OTT platforms.
 
-```py
+---
+
+### 2. 📡 JioTV — 2 Days EPG + Catch-Up
+
+```text
 https://avkb.short.gy/jioepg.xml.gz
 ```
 
-💞 `[ 3. TATAPLAY 2 DAYS EPG GUIDE WITH CATCHUP ]`<br>
+Dedicated JioTV EPG with 2-day programming and catch-up support.
 
-```py
+---
+
+### 3. 📡 Tata Play — 2 Days EPG + Catch-Up
+
+```text
 https://avkb.short.gy/tsepg.xml.gz
 ```
 
-<h2>✍️ EPG USES INSTRUCTIONS :</h2>
+Dedicated Tata Play EPG with 2-day programming and catch-up support.
 
-📑 𝗡𝗢𝗧𝗘 : 𝗝𝘂𝘀𝘁 𝗙𝗼𝗹𝗹𝗼𝘄 𝗕𝗲𝗹𝗼𝘄 𝗜𝗻𝘀𝘁𝗿𝘂𝗰𝘁𝗶𝗼𝗻𝘀 𝗙𝗼𝗿 𝗘𝗣𝗚 𝘁𝗼 𝘄𝗼𝗿𝗸𝘀 𝗼𝗻 𝗬𝗼𝘂𝗿 𝗣𝗹𝗮𝘆𝗹𝗶𝘀𝘁.
+---
 
-💞 `[ 1. TS AIO OTT EPG ]`<br>
+# 🆔 TVG-ID FORMAT
 
-```py
-FOR JIOTV EPG - use like this "144" FORMAT : [ (id) ]
-FOR TATAPLAY EPG - use like this "ts521" FORMAT : [ ts(id) ]
-FOR ZEE5 EPG - use like this "0-9-zeetv" FORMAT : [ 0-9-(id) ]
-FOR SUNNXT EPG - use like this "sun9025" FORMAT : [ sun(id) ]
-FOR SONYLIV EPG - use like this "sony1000009246" FORMAT : [ sony(id) ]
+Correct `tvg-id` mapping is essential for your player to associate a channel with its EPG data.
+
+## JioTV
+
+Use the channel ID directly:
+
+```text
+144
+1918
+291
 ```
 
-💞 `[ 2. FOR JIOTV 2 DAYS EPG WITH CATCHUP ]`<br>
+Example:
 
-```py
-ONLY JIOTV EPG - use like this "144" FORMAT : [ (id) ]
+```text
+tvg-id="144"
 ```
 
-💞 `[ 3. FOR TATAPLAY 2 DAYS EPG WITH CATCHUP ]`<br>
+---
 
-```py
-ONLY TATAPLAY EPG - use like this "ts144" FORMAT : [ ts(id) ]
+## Tata Play
+
+Prefix the channel ID with `ts`:
+
+```text
+ts840
+ts842
+ts521
 ```
 
-<br>
+Example:
 
-<h2>🤔 How to use in Playlists :</h2>
+```text
+tvg-id="ts840"
+```
 
-1. Just Put Above Url Like this in your Playlist :-
+---
 
-```py
+## ZEE5
+
+Use the following format:
+
+```text
+0-9-(id)
+```
+
+Example:
+
+```text
+tvg-id="0-9-zeetv"
+```
+
+---
+
+## Sun NXT
+
+Prefix the channel ID with `sun`:
+
+```text
+sun(id)
+```
+
+Example:
+
+```text
+tvg-id="sun9025"
+```
+
+---
+
+## SonyLIV
+
+Prefix the channel ID with `sony`:
+
+```text
+sony(id)
+```
+
+Example:
+
+```text
+tvg-id="sony1000009246"
+```
+
+---
+
+# ⚙️ PLAYLIST CONFIGURATION
+
+## Step 1 — Add the EPG URL
+
+Add the EPG URL to the beginning of your M3U playlist:
+
+```m3u
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 ```
 
-1. Now Change your `tvg-id` according to your channels :-
+---
 
-```py
-FOR TATAPLAY :- [ tvg-id="ts840" ]
-FOR JIOTV :- [ tvg-id="144" ]
+## Step 2 — Assign the Correct `tvg-id`
+
+Each channel must use the ID that exists in the EPG XML.
+
+For example:
+
+```m3u
+#EXTINF:-1 tvg-id="ts840" tvg-name="Shirdi Sai Baba" group-title="Spiritual",Shirdi Sai Baba
+https://example.com/stream.mpd
 ```
 
-- 📺 𝗧𝗔𝗧𝗔𝗣𝗟𝗔𝗬 𝗗𝗘𝗠𝗢
+For JioTV:
 
-```py
+```m3u
+#EXTINF:-1 tvg-id="144" tvg-name="Colors HD" group-title="Entertainment",Colors HD
+https://example.com/stream.m3u8
+```
+
+---
+
+# 📺 TATA PLAY EXAMPLE
+
+```m3u
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000975&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXV
-#EXTINF:-1 tvg-id="ts840" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56386-kfc14w60-v4/imageContent-56386-kfc14w60-m4.png" group-title="TSneh Spiritual",Shirdi Sai Baba
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000975&ls_session=YOUR_SESSION
+
+#EXTINF:-1 tvg-id="ts840" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56386-kfc14w60-v4/imageContent-56386-kfc14w60-m4.png" group-title="Spiritual",Shirdi Sai Baba
 https://delta45tatasky.akamaized.net/out/i/554.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000976&ls_session=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXV
-#EXTINF:-1 tvg-id="ts842" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56389-kfdgngts-v3/imageContent-56389-kfdgngts-m3.png" group-title="TSneh Spiritual",Somnath Temple
+#KODIPROP:inputstream.adaptive.license_key=https://tataplay.live.ott.irdeto.com/Widevine/getlicense?CrmId=tatasky&AccountId=tatasky&ContentId=400000976&ls_session=YOUR_SESSION
+
+#EXTINF:-1 tvg-id="ts842" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-56389-kfdgngts-v3/imageContent-56389-kfdgngts-m3.png" group-title="Spiritual",Somnath Temple
 https://delta45tatasky.akamaized.net/out/i/722.mpd
 ```
 
-- 📺 𝗝𝗜𝗢𝗧𝗩 𝗗𝗘𝗠𝗢
+> ⚠️ Replace temporary/session-specific authentication values with your own valid credentials or session information.
 
-```py
+---
+
+# 📡 JioTV Example
+
+```m3u
 #EXTM3U x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 
 #EXTINF:-1 tvg-id="1918" group-title="Sports" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Jio_Cricket_English.png",Jio Cricket English HD
 http://localhost/jiotv/app/live.php?id=1918&e=.m3u8
+
 #EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png",Colors HD
 http://localhost/jiotv/app/live.php?id=144&e=.m3u8
+
 #EXTINF:-1 tvg-id="291" group-title="Entertainment" tvg-language="Hindi" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_HD.png",SET HD
 http://localhost/jiotv/app/live.php?id=291&e=.m3u8
 ```
 
-<h2>🚸 Warnings :</h2>
+---
 
-- 𝐓𝐡𝐢𝐬 𝐢𝐬 𝐉𝐮𝐬𝐭 𝐅𝐨𝐫 𝐄𝐝𝐮𝐜𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐏𝐮𝐫𝐩𝐨𝐬𝐞
-- 𝐃𝐎 𝐍𝐎𝐓 𝐒𝐞𝐥𝐥 𝐭𝐡𝐢𝐬 𝐒𝐜𝐫𝐢𝐩𝐭, 𝐓𝐡𝐢𝐬 𝐢𝐬 💯% 𝐅𝐫𝐞𝐞
+# 🧩 HOW EPG MATCHING WORKS
 
-<h2>🤗 Meet Me : </h2>
+The basic relationship is:
 
-- 𝐅𝐨𝐫 𝐚𝐧𝐲 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐉𝐨𝐢𝐧 𝐎𝐮𝐫 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 [TS OFFICIAL](https://bit.ly/3qzL7uD)<br>
-- 𝐎𝐫 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐚𝐭 [@protonmail](mailto:techiesneh@protonmail.com)
+```text
+M3U Playlist
+     │
+     ├── tvg-id
+     │      │
+     │      ▼
+     │   XMLTV EPG
+     │      │
+     │      ▼
+     └── Channel Program Guide
+```
 
-<br>
+For example:
+
+```text
+Playlist
+   │
+   └── tvg-id="144"
+            │
+            ▼
+       EPG XML
+            │
+            ▼
+       JioTV Channel
+            │
+            ▼
+       Program Schedule
+```
+
+The `tvg-id` in your playlist must match the corresponding channel ID in the EPG source.
 
 ---
 
-<h4 align='center'>© 𝟮𝟬𝟮𝟭-𝟮𝟯 𝗧𝗲𝗰𝗵𝗶𝗲𝗦𝗻𝗲𝗵</h4>
+# 🛠️ TROUBLESHOOTING
+
+### EPG is not showing
+
+Check the following:
+
+- ✅ EPG URL is reachable
+- ✅ `x-tvg-url` is correctly written
+- ✅ `tvg-id` exactly matches the XMLTV channel ID
+- ✅ Playlist has been refreshed
+- ✅ Your IPTV player supports XMLTV
+- ✅ The EPG source contains data for the requested channel
+
+### Channel appears but no program guide
+
+Usually this means the `tvg-id` does not match.
+
+For example:
+
+```text
+EPG ID:
+144
+```
+
+Your playlist should contain:
+
+```text
+tvg-id="144"
+```
+
+Not:
+
+```text
+tvg-id="144 "
+tvg-id="Jio144"
+tvg-id="jio144"
+```
+
+unless those IDs actually exist in the EPG source.
+
+---
+
+# 📱 PLAYER COMPATIBILITY
+
+The EPG is intended for IPTV/OTT players supporting XMLTV-compatible EPG data.
+
+Examples include:
+
+- TiviMate
+- OTT Navigator
+- Kodi-based IPTV players
+- Other M3U/XMLTV-compatible players
+
+Actual feature availability may vary between applications.
+
+---
+
+# ⚠️ DISCLAIMER
+
+This project/documentation is provided for **educational and informational purposes only**.
+
+- Do not use the information to access content without proper authorization.
+- Respect the terms of service of the relevant streaming providers.
+- Do not redistribute copyrighted content without permission.
+- Do not use this documentation for unauthorized commercial distribution.
+- Users are responsible for how they configure and use their playlists and EPG sources.
+
+---
+
+# 💖 Credits
+
+This documentation and the original project were created and maintained by **TechieSneh**.
+
+Please respect the original attribution and do not remove or modify the project credits when redistributing the documentation.
+
+<p align="center">
+  <b>© 2021-26 TechieSneh</b>
+</p>
+
+<p align="center">
+  Made with ❤️ for the OTT / IPTV community
+</p>
 
 <!-- DO NOT REMOVE THIS CREDIT -->
+
+<!-- © 2021-26 TechieSneh -->
